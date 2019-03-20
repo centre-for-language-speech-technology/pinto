@@ -1,0 +1,50 @@
+PINTO Documentation
+===================
+
+can be found in the data/docs subdirectory, in the file: Pinto_1-5-1_User_Manual.pdf
+It contains installation instructions, describes Pinto's functionality in detail, and it contains examples.
+
+PINTO requirements
+==================
+
+PINTO was built using java. A functioning java Runtime Environment must be installed and accessible.
+Java version 1.8.0.202 was used during development.
+In a windows command window, the command
+    java -version
+Should report on the java version you are running.
+If the command is not recognised, your java environment is not installed and/or accessible correctly.
+
+PINTO functionality
+===================
+
+Pinto is a software application that was developed to search input texts for co-occurrences of terms from one or more filter categories.
+Using Pinto requires the following consecutive steps:
+  - start the Pinto graphical shell
+  - select input files and filtering files
+  - run the filtering process
+  - inspect and save the resulting reports.
+
+The input files consist of
+  - one or more input texts (in XML format, see documentation)
+  - files describing effects searched for (one file containing effect rules and one describing effect rule elements)
+  - one or more files describing additional word classes to be searched for (one file per word class)
+  
+The filtering process selects all paragraphs in the text in which the specified filters co-occur, and generates summaries.
+
+PINTO version
+=============
+
+The current version is: 1.5.1
+
+PINTO creators
+==============
+
+Pinto was created by Polderlink bv and Radboud University/CLST for the Netherlands Rijksinstituut voor Volksgezondheid en Milieu (RIVM).
+
+PINTO sources
+=============
+
+consist of a proprietory part, owned by Polderlink bv, and an open part (graphic shell, mainly),
+co-owned by Radboud University CLST and Polderlink bv.
+
+Malden, the Netherlands, 2019-03-19

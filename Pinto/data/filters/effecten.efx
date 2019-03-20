@@ -1,0 +1,2613 @@
+\bjojo-effect\b	N60	LICHAAMSGEWICHT
+\baambeien\b	N60	MAAG & LEVER & DARMEN
+\baan\b	PR	N.A.
+\baangekomen\b	ADJ67	LICHAAMSGEWICHT
+\baangetast\b	ADJ7	
+\baangetaste\b	ADJ6	
+\baangevoerd\b	ADJ7	
+\baangevoerde\b	ADJ6	
+\baangezichts\b	N7	GEZICHT
+\baangroeide\b	V3	
+\baangroeiden\b	V3	
+\baangroeien\b	V1	
+\baangroeit\b	V2	
+\baanhoudend\b	ADJ12	UNSPECIFIED
+\baanhoudende\b	ADJ11	UNSPECIFIED
+\baankom\b	V2	LICHAAMSGEWICHT
+\baankomen\b	V1	LICHAAMSGEWICHT
+\baankomt\b	V2	LICHAAMSGEWICHT
+\baankwam\b	V3	LICHAAMSGEWICHT
+\baankwamen\b	V3	LICHAAMSGEWICHT
+\baanmerkelijk\b	ADJ13	UNSPECIFIED
+\baanmerkelijk\b	ADV2	N.A.
+\baanmerkelijke\b	ADJ10	N.A.
+\baantast\b	V2	
+\baantasten\b	ADJ31	UNSPECIFIED
+\baantasten\b	V1	
+\baantasting\b	N9	
+\baantastte\b	V3	
+\baantoonbaar\b	ADV2	N.A.
+\baantoonbare\b	ADJ10	N.A.
+\baanvallen\b	V1	
+\baanvalt\b	V2	
+\baanvankelijk\b	ADJ13	UNSPECIFIED
+\baanvankelijke\b	ADJ10	N.A.
+\baanviel\b	V3	
+\baanvoelde\b	V3	
+\baanvoelden\b	V3	
+\baanvoelen\b	V1	
+\baanvoelt\b	V2	
+\baanvoer\b	N9	
+\baanvoeren\b	V1	
+\baanvoert\b	V2	
+\baanvullend\b	ADJ31	UNSPECIFIED
+\baanvullende\b	ADJ21	UNSPECIFIED
+\baanzet\b	V2	
+\baanzette\b	V3	
+\baanzetten\b	V1	
+\baanzienlijk\b	ADJ13	UNSPECIFIED
+\baanzienlijk\b	ADV1	N.A.
+\baanzienlijke\b	ADJ10	N.A.
+\baardig\b	ADJ13	UNSPECIFIED
+\baardig\b	ADV1	N.A.
+\baardig\b	ADV2	N.A.
+\baardige\b	ADJ10	N.A.
+\babnormaal\b	ADJ13	UNSPECIFIED
+\babnormaal\b	ADV1	N.A.
+\babnormale\b	ADJ10	N.A.
+\babsurd\b	ADJ13	UNSPECIFIED
+\babsurd\b	ADV1	N.A
+\babsurde\b	ADJ10	N.A.
+\babsurder\b	ADJ13	UNSPECIFIED
+\bachterdochtig\b	ADJ4	PSYCHE
+\bachterdochtiger\b	ADJ4	PSYCHE
+\bacne	N60	HUID
+\bacné	N60	HUID
+\bactief\b	ADV2	N.A.
+\bactiever\b	ADJ13	UNSPECIFIED
+\bactievere\b	ADJ10	N.A.
+\bactiveren\b	V1
+\bactiviteit\b	N9	
+\bacute\b	ADJ10	N.A.
+\bacuut\b	ADJ13	UNSPECIFIED
+\badem\b	N4	LONGEN & LUCHTWEGEN
+\bademhaling\b	N4	LONGEN & LUCHTWEGEN
+\bademhalings\b	N7	LONGEN & LUCHTWEGEN
+\bademnood\b	N60	LONGEN & LUCHTWEGEN
+\bademstilstand\b	N60	LONGEN & LUCHTWEGEN
+\baderen\b	N4	HART & VAATSTELSEL
+\baders\b	N4	HART & VAATSTELSEL
+\badhd\b	N8	STRESS	
+\badrenalinekick	N9	STRESS
+\badrenalinerush	N9	STRESS
+\badrenerge\b	ADJ10	HORMOONHUISHOUDING
+\baf\b	PR	N.A.
+\bafbouw\b	N9	
+\bafbouwen\b	V1	
+\bafbouwt\b	V2	
+\bafbraak\b	N9	
+\bafbrak\b	V3	
+\bafbreekt\b	V2	
+\bafbreken\b	V1	
+\bafbrekend\b	ADJ31	UNSPECIFIED
+\bafbrekende\b	ADJ21	UNSPECIFIED
+\bafbrokkelend\b	ADJ31	UNSPECIFIED
+\bafbrokkelende\b	ADJ21	UNSPECIFIED
+\bafdreef\b	V3	
+\bafdrijft\b	V2	
+\bafdrijven\b	V1	
+\bafdrijvend\b	ADJ31	UNSPECIFIED
+\bafgebroken\b	ADJ67	
+\bafgedreven\b	ADJ67	
+\bafgenomen\b	ADJ67	
+\bafgeremd\b	ADJ7	
+\bafgeremde\b	ADJ6	
+\bafgescheiden\b	ADJ67	
+\bafgevallen\b	ADJ67	
+\bafgevoerd\b	ADJ7	
+\bafgevoerde\b	ADJ6	
+\bafgifte\b	N9	
+\bafgrijselijk\b	ADV1	N.A.
+\bafnam\b	V3	
+\bafname\b	N1	
+\bafneemt\b	V2	
+\bafnemend\b	ADJ31	UNSPECIFIED
+\bafnemende\b	ADJ21	UNSPECIFIED
+\bafremde	V3	
+\bafremmen\b	V1	
+\bafremt\b	V2	
+\bafscheid\b	V2	
+\bafscheidde\b	V3	
+\bafscheiden\b	V1	
+\bafscheidend\b	ADJ31	UNSPECIFIED
+\bafscheiding\b	N9	
+\bafscheidt\b	V2	
+\bafschuwelijk\b	ADV1	N.A.
+\bafschuwlijk\b	ADV1	N.A.
+\bafslank\b	V2	LICHAAMSGEWICHT
+\bafslanken\b	V1	LICHAAMSGEWICHT
+\bafslankende\b	ADJ2	LICHAAMSGEWICHT
+\bafslankte\b	V3	LICHAAMSGEWICHT
+\bafsterft\b	V2	
+\bafsterven\b	V1	
+\bafstervende\b	ADJ21	UNSPECIFIED
+\bafstierf\b	V3	
+\bafval\b	V2	LICHAAMSGEWICHT
+\bafvallen\b	V1	LICHAAMSGEWICHT
+\bafvalt\b	V2	LICHAAMSGEWICHT
+\bafviel\b	V3	LICHAAMSGEWICHT
+\bafvielen\b	V3	LICHAAMSGEWICHT
+\baggressiviteit\b	N8	
+\bagresiever\b	ADJ51	
+\bagressie\b	N60	
+\bagressief\b	ADJ4	
+\bagressiever\b	ADJ51	
+\bagressievere\b	ADJ10	N.A.
+\bakelig\b	ADV1	N.A.
+\baktiviteit\b	N9	
+\balergische\b	ADJ5	
+\balert\b	ADJ4	ALERTHEID
+\balerte\b	ADJ5	ALERTHEID
+\balertheid\b	N8	ALERTHEID
+\balgehele\b	ADJ10	N.A.
+\ballergie\b	N60	
+\ballergisch\b	ADJ51	
+\ballergische\b	ADJ5	
+\baminozuurspiegel\b	N8	
+\bamper\b	ADV2	N.A.
+\banabole\b	ADJ5	SPIEREN & SPIERFUNCTIE
+\banabolische\b	ADJ5	SPIEREN & SPIERFUNCTIE
+\banabool\b	ADJ51	SPIEREN & SPIERFUNCTIE	
+\banaloge\b	ADJ5	
+\bander\b	ADJ13	UNSPECIFIED
+\bandere\b	ADJ10	N.A.
+\bandrogene\b	ADJ5	MANNELIJK
+\bangst\b	N8	PSYCHE
+\bangstaanjagend\b	ADV1	N.A.
+\bangstig\b	ADJ4	PSYCHE
+\bant-katabolisch\b	ADJ51	LICHAAMSGEWICHT
+\banti-aging\b	ADJ51	
+\banti-catabole\b	ADJ5	LICHAAMSGEWICHT	
+\banti-catabolische\b	ADJ5	LICHAAMSGEWICHT
+\banti-depressieve\b	ADJ5	PSYCHE
+\banti-depri\b	ADJ51	PSYCHE
+\banti-katabool\b	ADJ51	LICHAAMSGEWICHT
+\banti-oestrogeen\b	ADJ51	SPIEREN & SPIERFUNCTIE
+\banti-oestrogene\b	ADJ5	SPIEREN & SPIERFUNCTIE	
+\banti-oxidante\b	ADJ5	
+\banti-oxidatieve\b	ADJ5	
+\banti-oxiderende\b	ADJ2	
+\banticatabole\b	ADJ5	LICHAAMSGEWICHT	
+\banticatabool\b	ADJ51	LICHAAMSGEWICHT	
+\banticholinergische\b	ADJ5	
+\bantikatabole\b	ADJ5	LICHAAMSGEWICHT	
+\bantikatabool\b	ADJ51	LICHAAMSGEWICHT
+\bantilipogenic\b	ADJ51	LICHAAMSGEWICHT
+\bantioxidatieve\b	ADJ5	
+\bapart\b	ADJ13	
+\baparte\b	ADJ10	N.A.
+\barm\b	N4	LEDEMATEN
+\barm\b	N7	LEDEMATEN
+\barmen\b	N4	LEDEMATEN
+\barmomtrek\b	N8	SPIEREN & SPIERFUNCTIE	
+\baromatiseren\b	V1	
+\baromatiserend\b	ADJ3	
+\bastma\b	N60	LONGEN & LUCHTWEGEN
+\batta\b	N7	
+\bavenrecht\b	ADJ13	UNSPECIFIED
+\baverechts\b	ADJ13	UNSPECIFIED
+\baverechtse\b	ADJ10	N.A.
+\baverrechtste\b	ADJ10	N.A.
+\bawesome\b	ADJ13	UNSPECIFIED
+\bawesum\b	ADJ13	UNSPECIFIED
+\bawsom\b	ADJ13	UNSPECIFIED
+\bbaardgroei\b	N60	HAAR
+\bbaat\b	N9	
+\bbacteriecelwanden\b	N8	
+\bbacteriegroei\b	N60	
+\bbakken\b	Q	N.A.
+\bbalans\b	N9	
+\bbedenkelijk\b	ADJ13	UNSPECIFIED
+\bbedenkelijke\b	ADJ10	N.A.
+\bbeduidend\b	ADV1	N.A.
+\bbeef\b	V2	
+\bbeefde\b	V3	
+\bbeefden\b	V3	
+\bbeeft\b	V2	
+\bbeen\b	N4	LEDEMATEN
+\bbeen\b	N7	LEDEMATEN
+\bbeetje\b	Q	N.A.
+\bbehaalde\b	ADJ6	
+\bbehoorlijk\b	ADJ13	UNSPECIFIED
+\bbehoorlijk\b	ADV1	N.A.
+\bbehoorlijke\b	ADJ10	N.A.
+\bbeinvloed\b	ADJ7	
+\bbeinvloed\b	V2	
+\bbeinvloedde\b	V3	
+\bbeinvloeden\b	V1	
+\bbeinvloeding\b	N9	
+\bbeinvloedt\b	V2	
+\bbeinvloeidt\b	V2	
+\bbek\b	N4	
+\bbekend\b	ADJ13	UNSPECIFIED
+\bbeknelde\b	V3	
+\bbeknellen\b	V1	
+\bbeknelling\b	N9	
+\bbeknelt\b	V2	
+\bbelangerijkste\b	ADJ10	N.A.
+\bbelangrijke\b	ADJ10	N.A.
+\bbelangrijkste\b	ADJ10	N.A.
+\bbelast\b	V2	
+\bbelaste\b	ADJ6	
+\bbelasten\b	V1	
+\bbelastend\b	ADJ31	UNSPECIFIED
+\bbelasting\b	N9	
+\bbelastte\b	V3	
+\bbelemmerd\b	ADJ7	
+\bbelemmerde\b	ADJ6	
+\bbelemmerde\b	V3	
+\bbelemmeren\b	V1	
+\bbelemmerend\b	ADJ31	UNSPECIFIED
+\bbelemmering\b	N9	
+\bbelemmert\b	V2	
+\bbemerk\b	V2	
+\bbemoeilijkt\b	ADJ7	
+\bbemoeilijkte\b	ADJ6	
+\bben\b	V2	
+\bbenauwd\b	ADJ7	
+\bbenauwde\b	ADJ6	
+\bbenauwde\b	V3	
+\bbenauwdheid\b	N60	
+\bbenauwen\b	V1	
+\bbenauwend\b	ADJ31	UNSPECIFIED
+\bbenauwt\b	V2	
+\bbenen\b	N4	LEDEMATEN
+\bbeoogd\b	ADJ7	
+\bbeoogde\b	ADJ6	
+\bbepaald\b	ADJ7	
+\bbepaalde\b	ADJ6	
+\bbeperkt\b	ADJ7	
+\bbeperkt\b	V2	
+\bbeperkte\b	ADJ6	
+\bbeperkte\b	V3	
+\bberg\b	Q	N.A.
+\bberoerd\b	ADJ4	
+\bberoerte\b	N60	HERSENEN
+\bberokkende\b	V3	
+\bberokkenen\b	V1	
+\bberokkenend\b	ADJ31	UNSPECIFIED
+\bberokkent\b	V2	
+\bbeschadig\b	V2	
+\bbeschadigd\b	ADJ7	
+\bbeschadigde\b	ADJ6	
+\bbeschadigde\b	V3	
+\bbeschadigen\b	V1	
+\bbeschadigend\b	ADJ31	UNSPECIFIED
+\bbeschadiging\b	N61	
+\bbeschadigingen\b	N61	
+\bbeschadigt\b	V2	
+\bbeschermen\b	V1	
+\bbeschermend\b	ADJ31	UNSPECIFIED
+\bbeschermende\b	ADJ21	UNSPECIFIED
+\bbescherming\b	N61	
+\bbeschermt\b	V2	
+\bbesmet\b	ADJ7	
+\bbesmet\b	V2	
+\bbesmette\b	ADJ6	
+\bbesmette\b	V3	
+\bbesmettend\b	ADJ31	UNSPECIFIED
+\bbesmetting\b	N61	
+\bbespoedigde\b	V3	
+\bbespoedigen\b	V1	
+\bbespoedigt\b	V2	
+\bbest\b	ADV2	N.A.
+\bbeste\b	ADJ10	N.A.
+\bbestrijd\b	V2	
+\bbestrijdt\b	V2	
+\bbeter\b	ADJ13	UNSPECIFIED
+\bbeter\b	ADV2	N.A.
+\bbetere\b	ADJ10	N.A.
+\bbeven\b	V1	
+\bbevend\b	ADJ31	UNSPECIFIED
+\bbeverig\b	ADJ4	STRESS
+\bbevordelijk\b	ADJ13	UNSPECIFIED
+\bbevorder\b	V2	
+\bbevorderd\b	ADJ7	
+\bbevorderde\b	ADJ6	
+\bbevorderde\b	V3	
+\bbevorderen\b	V1	
+\bbevorderend\b	ADJ31	UNSPECIFIED
+\bbevorderende\b	ADJ21	UNSPECIFIED
+\bbevordering\b	N9	
+\bbevorderlijk\b	ADJ13	UNSPECIFIED
+\bbevordert\b	V2	
+\bbeweeglijker\b	ADJ13	UNSPECIFIED
+\bbewegingen\b	N8	
+\bbewerkstelligd\b	ADJ7	
+\bbewerkstelligde\b	V3	
+\bbewerkstelligen\b	V1	
+\bbewerkstelligt\b	V2	
+\bbewezen\b	ADJ67	
+\bbewusteloos\b	ADJ4	
+\bbewustzijn\b	N8	
+\bbezweet\b	ADJ7	LICHAAMSTEMPERATUUR
+\bbezwete\b	ADJ6	LICHAAMSTEMPERATUUR
+\bbeïnvloed\b	ADJ7	
+\bbeïnvloed\b	V2	
+\bbeïnvloedden\b	V3	
+\bbeïnvloede\b	ADJ6	
+\bbeïnvloeden\b	V1	
+\bbeïnvloedend\b	ADJ31	UNSPECIFIED
+\bbeïnvloeding\b	N9	
+\bbeïnvloedt\b	V2	
+\bbf\b	N8	
+\bbibber\b	V2	
+\bbibberde\b	V3	
+\bbibberen\b	V1	
+\bbibberend\b	ADJ31	UNSPECIFIED
+\bbibberende\b	ADJ21	UNSPECIFIED
+\bbibbert\b	V2	
+\bbiedt\b	V2	
+\bbij-effect\b	N2	
+\bbij-effecten\b	N2	
+\bbij\b	PR	N.A.
+\bbijeffect\b	N2	
+\bbijeffecten\b	N2	
+\bbijkomend\b	ADJ12	UNSPECIFIED
+\bbijkomend\b	ADJ31	UNSPECIFIED
+\bbijkomende\b	ADJ11	UNSPECIFIED
+\bbijkomende\b	ADJ21	UNSPECIFIED
+\bbijkomstig\b	ADJ13	UNSPECIFIED
+\bbijkomstige\b	ADJ10	N.A.
+\bbijverschijnsel\b	N2	
+\bbijverschijnselen\b	N2	
+\bbijwerkeringen\b	N2	
+\bbijwerking\b	N2	
+\bbijwerkingen\b	N2	
+\bbijzonder\b	ADJ13	UNSPECIFIED
+\bbijzondere\b	ADJ10	N.A.
+\bbinden\b	V1	
+\bbindend\b	ADJ31	UNSPECIFIED
+\bbindende\b	ADJ21	UNSPECIFIED
+\bbinding\b	N9	
+\bbindt\b	V2	
+\bbio-neurologische\b	ADJ5	
+\bbiologische\b	ADJ5	
+\bbitch\b	N7	
+\bbitchtits\b	N60	PHYSIQUE
+\bbizar\b	ADJ13	UNSPECIFIED
+\bbizarre\b	ADJ10	N.A.
+\bblijvend\b	ADJ31	UNSPECIFIED
+\bblijvende\b	ADJ21	UNSPECIFIED
+\bbloated\b	V3	MAAG & LEVER & DARMEN
+\bbloed\b	N4	HART & VAATSTELSEL
+\bbloedarmoede\b	N60	BLOED & BLOEDSAMENSTELLING
+\bbloedcirculatie\b	N4	HART & VAATSTELSEL
+\bbloedcirculatie\b	N7	HART & VAATSTELSEL
+\bbloeddruk\b	N4	HART & VAATSTELSEL
+\bbloeddruk\b	N7	HART & VAATSTELSEL
+\bbloeden\b	N8	HART & VAATSTELSEL
+\bbloedend\b	ADJ3	HART & VAATSTELSEL	
+\bbloedglucose\b	N4	BLOED & BLOEDSAMENSTELLING
+\bbloedglucosespiegel\b	N4	BLOED & BLOEDSAMENSTELLING
+\bbloedglucosewaarde\b	N8	BLOED & BLOEDSAMENSTELLING
+\bbloeding\b	N60	HART & VAATSTELSEL
+\bbloedingen\b	N60	HART & VAATSTELSEL
+\bbloedneuzen\b	N60	HART & VAATSTELSEL
+\bbloedproppen\b	N60	HART & VAATSTELSEL
+\bbloedsomloop\b	N8	HART & VAATSTELSEL
+\bbloedstolling\b	N60	BLOED & BLOEDSAMENSTELLING
+\bbloedstolsels\b	N60	BLOED & BLOEDSAMENSTELLING
+\bbloedsuiker\b	N4	BLOED & BLOEDSAMENSTELLING
+\bbloedsuiker\b	N7	BLOED & BLOEDSAMENSTELLING
+\bbloedsuikergehalte\b	N4	BLOED & BLOEDSAMENSTELLING
+\bbloedsuikerniveau\b	N4	BLOED & BLOEDSAMENSTELLING
+\bbloedsuikers\b	N8	BLOED & BLOEDSAMENSTELLING
+\bbloedsuikerspiegel\b	N4	BLOED & BLOEDSAMENSTELLING
+\bbloedsuikerwaarden\b	N4	BLOED & BLOEDSAMENSTELLING
+\bbloedtoevoer\b	N4	HART & VAATSTELSEL
+\bbloedvaten\b	N4	HART & VAATSTELSEL
+\bbloedvatverwijdend\b	ADJ3	HART & VAATSTELSEL
+\bbloedvatverwijdende\b	ADJ2	HART & VAATSTELSEL
+\bbloedverdunnend\b	ADJ3	BLOED & BLOEDSAMENSTELLING
+\bbloedverdunnende\b	ADJ2	BLOED & BLOEDSAMENSTELLING
+\bbloedvergiftiging\b	N60	HART & VAATSTELSEL
+\bbloedzuiverend\b	ADJ3	BLOED & BLOEDSAMENSTELLING
+\bblokkeerde\b	V3	
+\bblokkeert\b	V2	
+\bblubberig\b	ADJ13	UNSPECIFIED
+\bblubberige\b	ADJ10	N.A.
+\bbmr\b	N8	LICHAAMSGEWICHT
+\bbobbels\b	N60	
+\bbobbeltjes\b	N60	
+\bbodyfat\b	N8	LICHAAMSVET
+\bboel\b	Q	N.A.
+\bboeren\b	N60	MAAG & LEVER & DARMEN
+\bbolle\b	ADJ10	N.A.
+\bbond\b	V3	
+\bboost\b	N8	
+\bboosten\b	V1	
+\bborst\b	N4	BORST
+\bborsten\b	N4	BORST
+\bborstgroei\b	N60	PHYSIQUE
+\bborstkanker\b	N8	BORST
+\bborstkas\b	N4	
+\bborstomvang\b	N8	PHYSIQUE
+\bborstspieren\b	N4	SPIEREN & SPIERFUNCTIE
+\bbotmassa\b	N8	BOTTEN & GEWRICHTEN
+\bbotmasse\b	N8	BOTTEN & GEWRICHTEN
+\bbotontkalking\b	N60	BOTTEN & GEWRICHTEN
+\bbotten\b	N4	BOTTEN & GEWRICHTEN
+\bbotvervormingen\b	N60	BOTTEN & GEWRICHTEN
+\bbouw\b	V21	
+\bbouwde\b	V3	
+\bbouwde\b	V31	
+\bbouwden\b	V31	
+\bbouwen\b	V11	
+\bbouwt\b	V2	
+\bbouwt\b	V21	
+\bbovenarm\b	N4	LEDEMATEN
+\bbovenarmen\b	N4	LEDEMATEN
+\bbovenbeen\b	N4	LEDEMATEN
+\bbovenbenen\b	N4	LEDEMATEN
+\bbovengemiddeld\b	ADV1	N.A.
+\bbovenstaande\b	ADJ10	N.A.
+\bbraakneigingen\b	N60	MAAG & LEVER & DARMEN
+\bbraakte\b	V3	MAAG & LEVER & DARMEN
+\bbracht\b	V3	
+\bbracht\b	V31	
+\bbrak\b	V3	
+\bbrak\b	V31	
+\bbraken\b	V1	MAAG & LEVER & DARMEN
+\bbraken\b	V31	MAAG & LEVER & DARMEN
+\bbrakend\b	ADJ3	MAAG & LEVER & DARMEN
+\bbrandend\b	ADJ31	UNSPECIFIED
+\bbrandende\b	ADJ21	UNSPECIFIED
+\bbranderig\b	ADJ13	UNSPECIFIED
+\bbranderige\b	ADJ10	N.A.
+\bbrede\b	ADJ10	N.A.
+\bbreder\b	ADJ13	UNSPECIFIED
+\bbreek\b	V2	
+\bbreekt\b	V2	
+\bbreekt\b	V21	
+\bbreken\b	V11	
+\bbrengen\b	V1	
+\bbrengen\b	V11	
+\bbrengt\b	V2	
+\bbrengt\b	V21	
+\bbronchitis\b	N60	LONGEN & LUCHTWEGEN
+\bbuik\b	N4	BUIK
+\bbuik\b	N7	BUIK
+\bbuikje\b	N4	PSYSIQUE
+\bbuikklachten\b	N60	BUIK
+\bbuikkrampen\b	N60	BUIK
+\bbuikloop\b	N60	MAAG & LEVER & DARMEN
+\bbuikomtrek\b	N8	PHYSIQUE
+\bbuikpijn\b	N60	BUIK
+\bbuikprobleem\b	N60	BUIK
+\bbuikspieren\b	N4	SPIEREN & SPIERFUNCTIE
+\bbuikvet\b	N8	LICHAAMSVET
+\bbuiten adem\b	ADJ3	
+\bbuitengewone\b	ADJ10	N.A.
+\bbuitengewoon\b	ADJ13	UNSPECIFIED
+\bbuitenproportioneel\b	ADJ13	UNSPECIFIED
+\bbuitenproportionele\b	ADJ10	N.A.
+\bbulten\b	N60	HUID	
+\bbultje\b	N8	HUID	
+\bbultjes\b	N60	HUID
+\bcatabol\b	ADJ51	
+\bcatabole\b	ADJ5	
+\bcatabolic\b	ADJ5	
+\bcatabolische\b	ADJ5	
+\bcelbalansvermindering\b	N81	
+\bcellen\b	N8	
+\bcelspanning\b	N8	
+\bcelvergrotend\b	ADJ3	
+\bcelvergrotende\b	ADJ2	
+\bcelvergroting\b	N81	
+\bcentimeter\b	N10	AFMETING
+\bcentrale\b	ADJ10	N.A.
+\bchagerijnig\b	ADJ4	PSYCHE
+\bchemopreventive\b	ADJ5	
+\bchlorofylgehalte\b	N8	
+\bcholesterol\b	N8	HART & VAATSTELSEL
+\bcholesterol\b	N9	HART & VAATSTELSEL
+\bcholesterolgehalte\b	N8	HART & VAATSTELSEL
+\bcholesterolverlagend\b	ADJ3	HART & VAATSTELSEL	
+\bcholesterolverlagende\b	ADJ2	
+\bchronisch\b	ADJ13	UNSPECIFIED
+\bchronische\b	ADJ10	N.A.
+\bcidale\b	ADJ5	
+\bcm\b	N10	AFMETING
+\bcomplete\b	ADJ10	N.A.
+\bcomplicaties\b	N9	
+\bconcentratie\b	N4	CONCENTRATIEVERMOGEN
+\bconcentreren\b	V1	CONCENTRATIEVERMOGEN
+\bconditie\b	N8	CONDITIE
+\bconstant\b	ADV2	N.A.
+\bconstante\b	ADJ10	N.A.
+\bconstipatie\b	N60	MAAG & LEVER & DARMEN
+\bconstiperen\b	V1	MAAG & LEVER & DARMEN
+\bconstiperend\b	ADJ3	MAAG & LEVER & DARMEN
+\bconstiperende\b	ADJ2	MAAG & LEVER & DARMEN
+\bcontinue\b	ADJ10	N.A.
+\bcortisolonderdrukkend\b	ADJ3	STRESS
+\bcortisolonderdrukkende\b	ADJ2	STRESS	
+\bcortisolremmend\b	ADJ3	STRESS
+\bcortisolremmende\b	ADJ2	STRESS
+\bcytobeschermend\b	ADJ3	
+\bcytobeschermende\b	ADJ2	
+\bdaalde\b	V3	
+\bdaalt\b	V2	
+\bdalen\b	V1	
+\bdaling\b	N1	
+\bdarm\b	N4	MAAG & LEVER & DARMEN
+\bdarm\b	N7	MAAG & LEVER & DARMEN
+\bdarmbezwaren\b	N8	MAAG & LEVER & DARMEN
+\bdarmen\b	N4	MAAG & LEVER & DARMEN
+\bdarmflora\b	N8	MAAG & LEVER & DARMEN
+\bdarmkrampen\b	N60	MAAG & LEVER & DARMEN
+\bdarmproblemen\b	N60	MAAG & LEVER & DARMEN
+\bdarmsysteem\b	N8	MAAG & LEVER & DARMEN
+\bdarmwand\b	N8	MAAG & LEVER & DARMEN
+\bdaverend\b	ADJ13	UNSPECIFIED
+\bdaverende\b	ADJ10	N.A.
+\bde\b	DET	N.A.
+\bdeed\b	AU	N.A.
+\bdeed\b	V31	
+\bdegelijk\b	ADV2	N.A.
+\bdegeneratie\b	N8	
+\bdegenereerde\b	V3	
+\bdegenereert\b	V2	
+\bdegenereren\b	V1	
+\bdegenererend\b	ADJ3	
+\bdegenererende\b	ADJ2	
+\bdenaturerend\b	ADJ3	
+\bdenaturerende\b	ADJ2	
+\bdepressie\b	N60	PSYCHE
+\bdepressief\b	ADJ4	PSYCHE
+\bdepressieve\b	ADJ5	PSYCHE
+\bdepri\b	ADJ4	PSYCHE
+\bdeprivatie\b	N60	
+\bdestructief\b	ADJ13	UNSPECIFIED
+\bdestructieve\b	ADJ10	N.A.
+\bdetox\b	N7	UNSPECIFIED
+\bdeze\b	DET	N.A.
+\bdezelfde\b	ADJ10	N.A.
+\bdezelfde\b	DET	N.A.
+\bdiabetische\b	ADJ5	BLOED & BLOEDSAMENSTELLING
+\bdiaree\b	N60	MAAG & LEVER & DARMEN
+\bdiarree\b	N60	MAAG & LEVER & DARMEN
+\bdie\b	DET	N.A.
+\bdieper\b	ADV2	N.A.
+\bdiepere\b	ADJ10	N.A.
+\bdiepgaand\b	ADJ12	UNSPECIFIED
+\bdiepgaande\b	ADJ21	UNSPECIFIED
+\bdik\b	ADJ4	PHYSIQUE
+\bdikke\b	ADJ10	N.A.
+\bdikker\b	ADJ4	PHYSIQUE
+\bdikker\b	ADV2	N.A.
+\bdikkere\b	ADJ10	N.A.
+\bdip\b	N9	PSYCHE	
+\bdirect\b	ADJ13	UNSPECIFIED
+\bdirect\b	ADV2	N.A.
+\bdirecte\b	ADJ10	N.A.
+\bdit\b	DET	N.A.
+\bdiuretisch\b	ADJ51	NIEREN & NIERFUNCTIE
+\bdiuretische\b	ADJ5	NIEREN & NIERFUNCTIE
+\bdiuriserend\b	ADJ3	NIEREN & NIERFUNCTIE
+\bdiuriserende\b	ADJ2	NIEREN & NIERFUNCTIE
+\bdiverse\b	ADJ10	N.A.
+\bdoen\b	AU	N.A.
+\bdoet\b	AU	N.A.
+\bdoet\b	V21	
+\bdood van\b	ADJ4	
+\bdoodgaan\b	V1	
+\bdoodgaat\b	V2	
+\bdoodgegaan\b	ADJ67	
+\bdoodmoe\b	ADJ4	ENERGIE
+\bdoor\b	PR	N.A.
+\bdoorbloed\b	ADJ7	BLOED & BLOEDSAMENSTELLING
+\bdoorbloede\b	ADJ6	HART & VAATSTELSEL
+\bdoorbloeden\b	V1	HART & VAATSTELSEL
+\bdoorbloeding\b	N8	HART & VAATSTELSEL
+\bdoorbloedt\b	V2	HART & VAATSTELSEL
+\bdoordringt\b	V2	
+\bdoordrong\b	V3	
+\bdoorkomen\b	V1	
+\bdramatisch\b	ADV1	N.A.
+\bdramatische\b	ADJ10	N.A.
+\bdrastisch\b	ADV1	N.A.
+\bdrastisch\b	ADV2	N.A.
+\bdrastische\b	ADJ10	N.A.
+\bdreef\b	V2	
+\bdreef\b	V31	
+\bdrijft\b	V2	
+\bdrijft\b	V21	
+\bdrijven\b	V11	
+\bdringt\b	V21	
+\bdroge\b	ADj13	SPIEREN & SPIERFUNCTIE
+\bdroger\b	ADJ51	SPIEREN & SPIERFUNCTIE
+\bdroger\b	ADV2	SPIEREN & SPIERFUNCTIE
+\bdrogere\b	ADJ10	SPIEREN & SPIERFUNCTIE
+\bdrong\b	V31	
+\bdroog\b	ADJ13	SPIEREN & SPIERFUNCTIE
+\bdroog\b	ADV2	SPIEREN & SPIERFUNCTIE
+\bdrugachtige\b	ADJ10	PSYCHE
+\bdruk\b	N9	
+\bduidelijk\b	ADJ13	UNSPECIFIED
+\bduidelijk\b	ADV2	N.A.
+\bduidelijke\b	ADJ10	N.A.
+\bduidelijker\b	ADJ13	UNSPECIFIED
+\bduidelijker\b	ADV2	N.A.
+\bduidelijkere\b	ADJ10	N.A.
+\bduizelig\b	ADJ4	
+\bduizeligheid\b	N60	
+\bduizeling\b	N60	
+\bduizelingen\b	N60	
+\bdun\b	ADJ4	PHYSIQUE
+\bdusdanig\b	ADV2	N.A.
+\bdusdanige\b	ADJ10	N.A.
+\bdwangmatige\b	ADJ10	N.A.
+\becht\b	ADV1	N.A.
+\bechte\b	ADJ10	N.A.
+\bechtttttt\b	ADV1	N.A.
+\beczeem\b	N60	HUID
+\been\b	DET	N.A.
+\beenzelfde\b	ADJ10	N.A.
+\beerder\b	ADV2	N.A.
+\beetlust\b	N8	MAAG & LEVER & DARMEN
+\befedra-achtige\b	ADJ5	STIMULATIE	
+\beffect\b	N2	
+\beffecten\b	N2	
+\beffectief\b	ADJ13	UNSPECIFIED
+\beffectief\b	ADV2	N.A.
+\beffectieve\b	ADJ10	N.A.
+\beffectiever\b	ADV2	N.A.
+\beffectievere\b	ADJ10	N.A.
+\beffects\b	N2	
+\beigenaardig\b	ADJ13	UNSPECIFIED
+\beigenaardig\b	ADV2	N.A.
+\beigenaardige\b	ADJ10	N.A.
+\bellendig\b	ADJ4	PSYCHE
+\bellendige\b	ADJ10	N.A.
+\bemulgerend\b	ADJ3	
+\bemulgerende\b	ADJ2	
+\benergie\b	N8	ENERGIE
+\benergieboost\b	N81	ENERGIE
+\benergiek\b	ADJ4	ENERGIE
+\benergieke\b	ADJ5	ENERGIE
+\benergieopwekkend\b	ADJ3	ENERGIE
+\benergieopwekkende\b	ADJ2	ENERGIE
+\benergieslurpend\b	ADJ3	ENERGIE
+\benergieslurpende\b	ADJ2	ENERGIE
+\benergieverlies\b	N81	ENERGIE
+\benergieverslindend\b	ADJ3	ENERGIE
+\benergieverslindende\b	ADJ2	ENERGIE
+\benergy\b	N8	ENERGIE
+\benige\b	DET	N.A.
+\benkele\b	DET	N.A.
+\benorm\b	ADJ13	UNSPECIFIED
+\benorm\b	ADV1	N.A.
+\benorme\b	ADJ10	N.A.
+\bepilepsie\b	N60	ZENUWEN	
+\bepileptische\b	ADJ5	ZENUWEN	
+\berectie\b	N8	POTENTIE
+\berecties\b	N8	POTENTIE
+\berg\b	ADV1	N.A.
+\berge\b	ADJ10	N.A.
+\bergogene\b	ADJ5	STIMULATIE
+\bernstig\b	ADV1	N.A.
+\bernstig\b	ADV2	N.A.
+\bernstige\b	ADJ10	N.A.
+\bervaar\b	V2	UNSPECIFIED	
+\bervaarde\b	V3	UNSPECIFIED	
+\bervaren\b	V1	UNSPECIFIED	
+\bervaringen\b	N9	UNSPECIFIED		
+\bervoer\b	V3	UNSPECIFIED	
+\beuforisch\b	ADJ4	PSYCHE
+\beventueel\b	ADJ13	UNSPECIFIED
+\beventuele\b	ADJ10	N.A.
+\bevenveel\b	ADV2	N.A.
+\bexplosie\b	N9	UNSPECIFIED	
+\bexplosieve\b	ADJ10	N.A.
+\bextra\b	ADJ10	N.A.
+\bextra\b	ADV1	N.A.
+\bextra\b	Q	N.A.
+\bextragrote\b	ADJ10	N.A.
+\bextreem\b	ADJ13	UNSPECIFIED
+\bextreem\b	ADV1	N.A.
+\bextreme\b	ADJ10	N.A.
+\bfaalde\b	V3	UNSPECIFIED
+\bfaalt\b	V2	UNSPECIFIED	
+\bfabuleus\b	ADJ13	UNSPECIFIED
+\bfabuleuze\b	ADJ10	N.A.
+\bfalen\b	V1	UNSPECIFIED	
+\bfan-tast-tisch\b	ADJ13	UNSPECIFIED
+\bfantastisch\b	ADJ13	UNSPECIFIED
+\bfantastische\b	ADJ10	N.A.
+\bfarmacologisch\b	ADJ51	
+\bfenomenaal\b	ADJ13	UNSPECIFIED
+\bfenomenale\b	ADJ10	N.A.
+\bfijn\b	ADJ13	UNSPECIFIED
+\bfijne\b	ADJ10	N.A.
+\bfit\b	ADJ4	CONDITIE
+\bflink\b	ADV1	N.A.
+\bflink\b	ADV2	N.A.
+\bflinke\b	ADJ10	N.A.
+\bfocus\b	N8	CONCENTRATIEVERMOGEN
+\bfocussen\b	V1	CONCENTRATIEVERMOGEN
+\bfocust\b	V2	CONCENTRATIEVERMOGEN
+\bfocuste\b	V3	CONCENTRATIEVERMOGEN
+\bformidabel\b	ADJ13	UNSPECIFIED
+\bfors\b	ADV2	N.A.
+\bfout\b	ADJ13	UNSPECIFIED
+\bfucking\b	ADV1	N.A.
+\bfunest\b	ADJ13	UNSPECIFIED
+\bfuneste\b	ADJ10	N.A.
+\bfutloos\b	ADJ4	ENERGIE
+\bfysiek\b	ADJ51	PHYSIQUE
+\bfysieke\b	ADJ5	PHYSIQUE
+\bgaan\b	AU	N.A.
+\bgaat\b	V21	UNSPECIFIED	
+\bgaf\b	V3	UNSPECIFIED
+\bgains\b	N8	UNSPECIFIED	
+\bge-ni-aal\b	ADJ13	UNSPECIFIED
+\bge-wel-dig\b	ADJ13	UNSPECIFIED
+\bgebibber\b	N8	STRESS
+\bgebloed\b	ADJ7	
+\bgebonden\b	ADJ67	
+\bgebraakt\b	ADJ7	MAAG & LEVER & DARMEN
+\bgebrek\b	N1	
+\bgeconstipeerd\b	ADJ7	MAAG & LEVER & DARMEN	
+\bgedaald\b	ADJ7	
+\bgedaalde\b	ADJ6	
+\bgedegenereerd\b	ADJ7	
+\bgedegenereerde\b	ADJ6	
+\bgedeprimeerd\b	ADJ7	PSYCHE	
+\bgedeprimeerde\b	ADJ6	PSYCHE
+\bgeeft\b	V2	
+\bgeen\b	DET	N.A.
+\bgeestelijke\b	ADJ5	PSYCHE
+\bgegroeid\b	ADJ7	
+\bgegroeide\b	ADJ6	
+\bgehoest\b	N8	LONGEN & LUCHTWEGEN
+\bgeholpen\b	ADJ67	
+\bgeil\b	ADJ4	POTENTIE
+\bgeile\b	ADJ5	POTENTIE
+\bgeilheid\b	N8	POTENTIE
+\bgejaagd\b	ADJ7	STRESS
+\bgejaagde\b	ADJ6	STRESS
+\bgejeukt\b	ADJ7	SENSATIE
+\bgekalmeerd\b	ADJ7	STRESS
+\bgekalmeerde\b	ADJ6	STRESS
+\bgeklop\b	N9	
+\bgeklots\b	N9	
+\bgekregen\b	ADJ67	
+\bgelaxeerd\b	ADJ7	MAAG & LEVER & DARMEN
+\bgelaxeerde\b	ADJ6	MAAG & LEVER & DARMEN
+\bgeleid\b	ADJ7	
+\bgeleidde\b	V3	
+\bgeleide\b	ADJ6	
+\bgeleidelijker\b	ADJ13	UNSPECIFIED
+\bgeleidelijkere\b	ADJ10	N.A.
+\bgeleiden\b	V1	
+\bgeleidend\b	ADJ31	UNSPECIFIED
+\bgeleiderlijker\b	ADJ13	UNSPECIFIED
+\bgeleiding\b	N9	
+\bgeleidt\b	V2	
+\bgelerende\b	ADJ21	UNSPECIFIED
+\bgelijkende\b	ADJ21	UNSPECIFIED
+\bgelijkmatigere\b	ADJ10	N.A.
+\bgemakkelijk\b	ADV2	N.A.
+\bgemakkelijker\b	ADV2	N.A.
+\bgemoedstoestand\b	N8	PSYCHE
+\bgeneeskrachtige\b	ADJ5	
+\bgeniaal\b	ADJ13	UNSPECIFIED
+\bgenial\b	ADJ13	UNSPECIFIED
+\bgenoeg\b	Q	N.A.
+\bgeprikkeld\b	ADJ7	STRESS
+\bgeprikkelde\b	ADJ6	STRESS
+\bgeprikkelde\b	ADJ6	SENSATIE
+\bgerapporteerde\b	ADJ6	
+\bgereguleerd\b	ADJ7	
+\bgereguleerde\b	ADJ6	
+\bgereinigd\b	ADJ7	
+\bgereinigde\b	ADJ6	
+\bgeremd\b	ADJ7	
+\bgeremde\b	ADJ6	
+\bgeschaad\b	ADJ7	
+\bgeschade\b	ADJ6	
+\bgeslachtsdrift\b	N8	POTENTIE
+\bgesloopt\b	ADJ7	
+\bgespannen\b	ADJ67	
+\bgespierd\b	ADJ7	SPIEREN & SPIERFUNCTIE
+\bgespierde\b	ADJ6	PHYSIQUE
+\bgespiert\b	ADJ7	SPIEREN & SPIERFUNCTIE
+\bgestegen\b	ADJ67	
+\bgesteldheid\b	N9	
+\bgestild\b	ADJ7	MAAG & LEVER & DARMEN
+\bgestilde\b	ADJ6	MAAG & LEVER & DARMENT	
+\bgestimuleerd\b	ADJ7	STIMULATIE	
+\bgestimuleerde\b	ADJ6	STIMULATIE
+\bgestold\b	ADJ7	BLOED & BLOEDSAMENSTELLING
+\bgestolde\b	ADJ6	BLOED & BLOEDSAMENSTELLING
+\bgestorven\b	ADJ67	
+\bgetransformeerd\b	ADJ7	
+\bgetransformeerde\b	ADJ6	
+\bgetranspireerd\b	ADJ7	STRESS	
+\bgetranspireerde\b	ADJ6	STRESS	
+\bgevaalrijk\b	ADJ13	UNSPECIFIED
+\bgevaarlijk\b	ADJ13	UNSPECIFIED
+\bgevaren\b	N3	
+\bgeven\b	V1	
+\bgevoelig\b	ADJ13	UNSPECIFIED
+\bgevoellig\b	ADJ13	UNSPECIFIED
+\bgevolg\b	N2	
+\bgevolgen\b	N2	
+\bgevonden\b	ADJ67	
+\bgeweldig\b	ADJ13	UNSPECIFIED
+\bgeweldig\b	ADV1	N.A.
+\bgeweldige\b	ADJ10	N.A.
+\bgewend\b	ADJ7	
+\bgewende\b	V3	
+\bgewennen\b	V1	
+\bgewennend\b	ADJ31	UNSPECIFIED
+\bgewenning\b	N9	
+\bgewenningverschijnselen\b	N60	
+\bgewenst\b	ADJ7	
+\bgewenste\b	ADJ6	
+\bgewent\b	V2	
+\bgewicht\b	N4	LICHAAMSGEWICHT
+\bgewichtstoename\b	N60	LICHAAMSGEWICHT
+\bgewichtsverlies\b	N60	LICHAAMSGEWICHT
+\bgewldig\b	ADJ13	UNSPECIFIED
+\bgeworden\b	ADJ67	
+\bgewrichten\b	N4	BOTTEN & GEWRICHTEN
+\bgewrichts\b	N7	BOTTEN & GEWRICHTEN
+\bgewrichtspijn\b	N60	BOTTEN & GEWRICHTEN
+\bgezakt\b	ADJ7	
+\bgezakte\b	ADJ6	
+\bgezicht\b	N4	GEZICHT
+\bgezichten\b	N8	GEZICHT
+\bgezichts\b	N7	GEZICHT
+\bgezonde\b	ADJ10	N.A.
+\bgezondheid\b	N8	
+\bgezondheidsbevorderende\b	ADJ2	UNSPECIFIED
+\bgezondheidsklachten\b	N60	
+\bgezondheidsproblemen\b	N60	
+\bgezondheidstoestand\b	N9	
+\bgezondheis\b	N7	
+\bgezuiverd\b	ADJ7	
+\bgezuiverde\b	ADJ6	
+\bgezweet\b	ADJ7	STRESS
+\bgezweet\b	N8	VOCHTHUISHOUDING
+\bgeïrriteerd\b	ADJ7	STRESS
+\bgeïrriteerde\b	ADJ6	STRESS	
+\bgirriteerd\b	ADJ7	STRESS
+\bgeirriteerde\b	ADJ6	STRESS	
+\bgigantisch\b	ADV1	N.A.
+\bgigantische\b	ADJ10	N.A.
+\bging\b	V31	
+\bgingen\b	V31	
+\bglaucoom\b	N8	OGEN
+\bglorieus\b	ADJ13	UNSPECIFIED
+\bglorieuze\b	ADJ10	N.A.
+\bglucosamine\b	N8	
+\bglucosespiegel\b	N8	BLOED & BLOEDSAMENSTELLING	
+\bgoddelijk\b	ADJ13	UNSPECIFIED
+\bgoddelijke\b	ADJ10	N.A.
+\bgoed\b	ADJ13	UNSPECIFIED
+\bgoed\b	ADV2	N.A.
+\bgoede\b	ADJ10	N.A.
+\bgoeie\b	ADJ10	N.A.
+\bgore\b	ADJ10	N.A.
+\bgr\b	N10	LICHAAMSGEWICHT
+\bgram\b	N10	LICHAAMSGEWICHT
+\bgrandioos\b	ADJ13	UNSPECIFIED
+\bgrandioze\b	ADJ10	N.A.
+\bgriezelig\b	ADJ13	UNSPECIFIED
+\bgroei bevorderlijke\b	ADJ5	GROEI
+\bgroei\b	N1	GROEI
+\bgroei\b	V2	GROEI	
+\bgroeibevorderend\b	ADJ3	
+\bgroeibevorderlijke\b	ADJ5	GROEI
+\bgroeide\b	V3	GROEI
+\bgroeide\b	V31	GROEI
+\bgroeiden\b	V2	GROEI	
+\bgroeiden\b	V31	GROEI
+\bgroeie\b	V1	GROEI	
+\bgroeien\b	V1	GROEI
+\bgroeien\b	V11	GROEI	
+\bgroeihormoonafgifte\b	N8	GROEI
+\bgroeihormoonstimulerende\b	ADJ2	GROEI
+\bgroeisensatie\b	N8	GROEI
+\bgroeit\b	V2	GROEI	
+\bgroeit\b	V21	GROEI
+\bgroot\b	ADJ13	UNSPECIFIED
+\bgrootste\b	ADJ10	N.A.
+\bgrote\b	ADJ10	N.A.
+\bgroter\b	ADJ13	UNSPECIFIED
+\bgrotere\b	ADJ10	N.A.
+\bgunstig\b	ADJ13	UNSPECIFIED
+\bgunstige\b	ADJ10	N.A.
+\bgunstigere\b	ADJ10	N.A.
+\bgweldig\b	ADJ13	UNSPECIFIED
+\bhaar\b	DET	N.A.
+\bhaargroei\b	N4	HAAR
+\bhaaruitval\b	N60	HAAR
+\bhals\b	N4	
+\bhard\b	ADJ13	UNSPECIFIED
+\bhard\b	ADV2	N.A.
+\bharder\b	ADV2	N.A.
+\bhardnekkig\b	ADJ13	UNSPECIFIED
+\bhardnekkige\b	ADJ10	N.A.
+\bhart\b	N4	HART & VAATSTELSEL
+\bhartkloppingen\b	N60	HART & VAATSTELSEL
+\bhartritme\b	N4	HART & VAATSTELSEL
+\bhartritmestoornissen\b	N60	HART & VAATSTELSEL
+\bhartslag\b	N4	HART & VAATSTELSEL
+\bhartstikke\b	ADV1	N.A.
+\bhartstilstand\b	N8	HART & VAATSTELSEL
+\bheeeeeeel\b	ADV1	N.A.
+\bheel\b	ADV1	N.A.
+\bheerlijke\b	ADJ10	N.A.
+\bheet\b	ADJ13	UNSPECIFIED
+\bheftig\b	ADJ13	UNSPECIFIED
+\bheftig\b	ADV2	N.A.
+\bheftige\b	ADJ10	N.A.
+\bheilzaam\b	ADJ13	UNSPECIFIED
+\bhelpen\b	AU	N.A.
+\bhelpt\b	V2	
+\bhersen\b	N7	HERSENEN
+\bhersenbloeding\b	N60	HERSENEN
+\bhersenbloedingen\b	N60	HERSENEN
+\bhersenen\b	N4	HERSENEN
+\bhersenfuncties\b	N8	HERSENEN
+\bherstel\b	N8	HERSTEL
+\bherstel\b	V2	HERSTEL	
+\bhersteld\b	ADJ7	HERSTEL	
+\bherstelde\b	ADJ6	HERSTEL	
+\bherstelde\b	V3	HERSTEL
+\bherstelden\b	V3	HERSTEL
+\bherstellen\b	V1	HERSTEL
+\bherstellend\b	ADJ3	HERSTEL
+\bherstellende\b	ADJ2	HERSTEL
+\bherstelt\b	V2	HERSTEL	
+\bhet\b	DET	N.A.
+\bhete\b	ADJ10	N.A.
+\bhetstel\b	N8	HERSTEL
+\bhetzelfde\b	DET	N.A.
+\bhevig\b	ADV2	N.A.
+\bhield\b	V31	
+\bhielden\b	V31	
+\bhielp\b	V3	
+\bhielpen\b	V3	
+\bhijg\b	V2	
+\bhijgde\b	V3	
+\bhijgen\b	V1	
+\bhoest\b	N8	LONGEN & LUCHTWEGEN
+\bhoest\b	V2	LONGEN & LUCHTWEGEN
+\bhoest\b	V21	LONGEN & LUCHTWEGEN
+\bhoesten\b	V1	LONGEN & LUCHTWEGEN
+\bhoesten\b	V11	LONGEN & LUCHTWEGEN	
+\bhoestend\b	ADJ3	LONGEN & LUCHTWEGEN
+\bhoestte\b	V3	LONGEN & LUCHTWEGEN
+\bhoestte\b	V31	LONGEN & LUCHTWEGEN
+\bhoestten\b	V31	LONGEN & LUCHTWEGEN
+\bhoge\b	ADJ10	N.A.
+\bhoger\b	ADJ13	UNSPECIFIED
+\bhoger\b	ADV2	N.A.
+\bhogere\b	ADJ10	N.A.
+\bhonger\b	N8	MAAG & LEVER & DARMEN
+\bhongergevoel\b	N8	MAAG & LEVER & DARMEN
+\bhongerremmend\b	ADJ3	MAAG & LEVER & DARMEN
+\bhongerremmende\b	ADJ2	MAAG & LEVER & DARMEN
+\bhongerstillend\b	ADJ3	MAAG & LEVER & DARMEN
+\bhongerstillende\b	ADJ2	MAAG & LEVER & DARMEN
+\bhoofd\b	N4	HOOFD
+\bhoofd\b	N7	HOOFD
+\bhoofdpijn\b	N60	HOOFD
+\bhoofdpijnaanval\b	N60	HOOFD
+\bhoofdpijnaanvallen\b	N60	HOOFD
+\bhoofdpijnen\b	N60	HOOFD
+\bhoog\b	ADJ13	UNSPECIFIED
+\bhoogde\b	V31	UNSPECIFIED
+\bhoogden\b	V31	UNSPECIFIED
+\bhoogst\b	ADV1	N.A.
+\bhoogste\b	ADJ10	N.A.
+\bhoogt\b	V21	UNSPECIFIED	
+\bhoop\b	Q	N.A.
+\bhoopt\b	V21	UNSPECIFIED
+\bhoopte\b	V31	UNSPECIFIED
+\bhoopten\b	V31	UNSPECIFIED
+\bhopen\b	V11	UNSPECIFIED	
+\bhormonale\b	ADJ5	HORMOONHUISHOUDING	
+\bhormoonschommelingen\b	N60	HORMOONHUISHOUDING
+\bhormoonspiegel\b	N60	HORMOONHUISHOUDING
+\bhormoonspiegels\b	N60	HORMOONHUISHOUDING
+\bhoud\b	V21	UNSPECIFIED	
+\bhouden\b	V11	UNSPECIFIED
+\bhoudt\b	V21	UNSPECIFIED	
+\bhuid\b	N4	HUID
+\bhuid\b	N7	HUID
+\bhuidplooi\b	N8	HUID
+\bhuiduitslag\b	N60	HUID
+\bhun\b	DET	N.A.
+\bhydrolyseert\b	V2	UNSPECIFIED	
+\bhyper\b	ADJ4	ENERGIE
+\bhyperactief\b	ADJ4	STIMULATIE
+\bhypertensie\b	N60	
+\bhyperventilatie\b	N60	LONGEN & LUCHTWEGEN
+\bhypoglykemische\b	ADJ5	
+\bijzersterk\b	ADJ13	UNSPECIFIED
+\bijzertekort\b	N60	
+\bijzertekorten\b	N60	
+\bilchte\b	ADJ10	N.A.
+\bimmuunsysteem\b	N4	
+\bimpact\b	N9	UNSPECIFIED
+\bimponerend\b	ADJ13	UNSPECIFIED
+\bimponerende\b	ADJ10	N.A.
+\bimposant\b	ADJ13	UNSPECIFIED
+\bimposante\b	ADJ10	N.A.
+\bin\b	PR	N.A.
+\bindigestie\b	N60	MAAG & LEVER & DARMEN
+\bindrukwekkend\b	ADJ31	UNSPECIFIED
+\bindrukwekkende\b	ADJ21	UNSPECIFIED
+\binfectie\b	N61	UNSPECIFIED	
+\binstabiel\b	ADJ13	UNSPECIFIED
+\binstant\b	ADJ13	UNSPECIFIED
+\binsulineaanmaak\b	N8	BLOED & BLOEDSAMENSTELLING	
+\binsulineboost\b	N81	BLOED & BLOEDSAMENSTELLING
+\binsulinerespons\b	N8	BLOED & BLOEDSAMENSTELLING
+\binsulinespiegel\b	N8	BLOED & BLOEDSAMENSTELLING
+\binsulineverhogend\b	ADJ3	BLOED & BLOEDSAMENSTELLING	
+\binsulineverhogende\b	ADJ2	BLOED & BLOEDSAMENSTELLING	
+\bintense\b	ADJ10	N.A.
+\bintenser\b	ADJ13	UNSPECIFIED
+\bintensere\b	ADJ10	N.A.
+\bintensief\b	ADJ13	UNSPECIFIED
+\binteressante\b	ADJ10	N.A.
+\bintolerantie\b	N81	
+\binvloed\b	N2	
+\binwendige\b	ADJ5	
+\birritant\b	ADJ13	UNSPECIFIED
+\birritatie\b	N61	STRESS
+\birriteerde\b	V3	STRESS
+\birriteert\b	V2	STRESS	
+\birriteren\b	V1	STRESS
+\birriterend\b	ADJ31	UNSPECIFIED
+\bje\b	DET	N.A.
+\bjeuk\b	N60	SENSATIE
+\bjeuken\b	V1	
+\bjeukend\b	ADJ3	SENSATIE
+\bjeukende\b	ADJ2	HUID
+\bjeukt\b	V2	
+\bjeukte\b	V3	
+\bjeukten\b	V3	
+\bjojo\b	N7	
+\bkalmeerde\b	V3	PSYCHE
+\bkalmeert\b	V2	PSYCHE	
+\bkalmeren\b	V1	PSYCHE
+\bkalmerend\b	ADJ3	PSYCHE
+\bkalmerende\b	ADJ2	PSYCHE
+\bkan\b	AU	N.A.
+\bkankerbevorderend\b	ADJ3	
+\bkankerbevorderende\b	ADJ2	UNSPECIFIED
+\bkankerverwekkend\b	ADJ3	
+\bkankerverwekkende\b	ADJ2	UNSPECIFIED
+\bkapot\b	PR	N.A.
+\bkapsels\b	N4	BOTTEN & GEWRICHTEN
+\bkatabole\b	ADJ5	
+\bkatabool\b	ADJ51	
+\bkeel\b	N4	KEEL & NEUS & OREN
+\bkeel\b	N7	KEEL & NEUS & OREN
+\bkg\b	N10	LICHAAMSGEWICHT
+\bkies\b	N4	GEBIT
+\bkiezen\b	N4	GEBIT
+\bkilo\b	N10	LICHAAMSGEWICHT
+\bkilogram\b	N10	LICHAAMSGEWICHT
+\bkilos\b	N10	LICHAAMSGEWICHT
+\bklaarwakker\b	ADJ4	ALERTHEID
+\bklachten\b	N3	
+\bkleine\b	ADJ10	N.A.
+\bkleiner\b	ADJ13	UNSPECIFIED
+\bkloppen\b	V1	
+\bkloppend\b	ADJ31	UNSPECIFIED
+\bklopt\b	V2	
+\bklopte\b	V3	
+\bklotsende\b	ADJ2	
+\bknalvol\b	Q	N.A.
+\bknappende\b	ADJ21	UNSPECIFIED
+\bknelde\b	V3	
+\bknellen\b	V1	
+\bknellend\b	ADJ31	UNSPECIFIED
+\bknelt\b	V2	
+\bknie\b	N4	BOTTEN & GEWRICHTEN
+\bknieen\b	N4	BOTTEN & GEWRICHTEN
+\bkokhalsen\b	V1	MAAG & LEVER & DARMEN
+\bkom\b	V21	
+\bkomen\b	V11	
+\bkomt\b	V2	
+\bkomt\b	V21	
+\bkoorstaanval\b	N60	LICHAAMSTEMPERATUUR
+\bkoorts\b	N8	LICHAAMSTEMPERATUUR
+\bkoortsaanvallen\b	N60	LICHAAMSTEMPERATUUR
+\bkoortsig\b	ADJ4	LICHAAMSTEMPERATUUR
+\bkoortslip\b	N60	
+\bkop\b	N4	HOOFD
+\bkoppijn\b	N60	HOOFD
+\bkort ademig\b	ADJ4	LONGEN & LUCHTWEGEN
+\bkortademig\b	ADJ4	LONGEN & LUCHTWEGEN
+\bkortdurende\b	ADJ21	UNSPECIFIED
+\bkorte\b	ADJ10	N.A.
+\bkots\b	V2	MAAG & LEVER & DARMEN	
+\bkotsmisselijk\b	ADJ4	MAAG & LEVER & DARMEN
+\bkoud\b	ADJ13	UNSPECIFIED
+\bkraakbeen\b	N4	BOTTEN & GEWRICHTEN
+\bkracht\b	N8	KRACHT
+\bkrachtbevorderend\b	ADJ3	KRACHT
+\bkrachtbevorderende\b	ADJ2	KRACHT
+\bkrachtexplosie\b	N8	KRACHT
+\bkrachtig\b	ADJ13	UNSPECIFIED
+\bkrachtige\b	ADJ10	N.A.
+\bkrachtiger\b	ADJ13	UNSPECIFIED
+\bkrachtigere\b	ADJ10	N.A.
+\bkrachttoename\b	N81	KRACHT
+\bkrachttoenames\b	N81	KRACHT
+\bkrachtwinst\b	N81	KRACHT
+\bkramp\b	N61	
+\bkrampen\b	N61	
+\bkrankzinnig\b	ADJ13	UNSPECIFIED
+\bkrankzinnige\b	ADJ10	N.A.
+\bkreeg\b	V3	
+\bkregen\b	V3	
+\bkriebel\b	N61	
+\bkriebels\b	N61	
+\bkrijg\b	V2	
+\bkrijgen\b	V1	
+\bkrijgt\b	V2	
+\bkuit\b	N4	SPIEREN & SPIERFUNCTIE	
+\bkuiten\b	N4	SPIEREN & SPIERFUNCTIE	
+\bkunnen\b	AU	N.A.
+\bkurkdroge\b	ADJ5	SPIEREN & SPIERFUNCTIE
+\bkurkdroog\b	ADJ51	SPIEREN & SPIERFUNCTIE
+\bkwalijke\b	ADJ10	N.A.
+\bkwam\b	V3	
+\bkwam\b	V31	
+\bkwamen\b	V31	
+\bkweek\b	V2	
+\bkwetsbaar\b	ADJ13	UNSPECIFIED
+\bkwijt\b	PR	N.A.
+\bkwijtgeraakt\b	ADJ7	
+\bkwijtgeraakte\b	ADJ6	
+\bkwijtraak\b	V2	
+\bkwijtraakt\b	V2	
+\bkwijtraakte\b	V3	
+\bkwijtraakten\b	V3	
+\bkwijtraken\b	V1	
+\blaag\b	ADJ13	UNSPECIFIED
+\blaag\b	ADV2	N.A.
+\blaat\b	AU	N.A.
+\blage\b	ADJ10	N.A.
+\blager\b	ADJ13	UNSPECIFIED
+\blager\b	ADV2	N.A.
+\blagere\b	ADJ10	N.A.
+\blandurige\b	ADJ10	N.A.
+\blang\b	ADV2	N.A.
+\blangdurig\b	ADJ13	UNSPECIFIED
+\blangdurig\b	ADV2	N.A.
+\blangdurigere\b	ADJ10	N.A.
+\blanger\b	ADV2	N.A.
+\blangere\b	ADJ10	N.A.
+\blangszamer\b	ADV2	N.A.
+\blangzaam\b	ADJ13	UNSPECIFIED
+\blangzaam\b	ADV2	N.A.
+\blangzame\b	ADJ10	N.A.
+\blangzamer\b	ADJ13	UNSPECIFIED
+\blangzamere\b	ADJ10	N.A.
+\blast had van\b	P1	N.A.
+\blast heb van\b	P1	N.A.
+\blast hebben van\b	P1	N.A.
+\blast heeft van\b	P1	N.A.
+\blast van\b	P1	N.A.
+\blast\b	N9	
+\blastiger\b	ADJ13	UNSPECIFIED
+\blate\b	ADJ10	N.A.
+\blaten\b	AU	N.A.
+\blaxatie\b	N8	MAAG & LEVER & DARMEN
+\blaxeert\b	V2	MAAG & LEVER & DARMEN
+\blaxeren\b	V1	MAAG & LEVER & DARMEN
+\blaxerend\b	ADJ3	MAAG & LEVER & DARMEN
+\blaxerende\b	ADJ2	MAAG & LEVER & DARMEN
+\bledematen\b	N4	LEDEMATEN
+\bleidde tot\b	P1	N.A.
+\bleidden tot\b	P1	N.A.
+\bleiden tot\b	P1	N.A.
+\bleidt tot\b	P1	N.A.
+\blekker\b	ADJ13	UNSPECIFIED
+\blekker\b	ADV1	N.A.
+\blekkere\b	ADJ10	N.A.
+\blelijke\b	ADJ10	N.A.
+\bleuk\b	ADJ13	UNSPECIFIED
+\bleuke\b	ADJ10	N.A.
+\blevensbedreigend\b	ADJ3	
+\blevensbedreigende\b	ADJ2	
+\blevensgevaarlijke\b	ADJ10	N.A.
+\blever\b	N4	MAAG & LEVER & DARMEN
+\blever\b	N7	MAAG & LEVER & DARMEN
+\bleverbeschadigende\b	ADJ2	MAAG & LEVER & DARMEN
+\bleverbeschermend\b	ADJ3	MAAG & LEVER & DARMEN
+\bleverbeschermende\b	ADJ2	MAAG & LEVER & DARMEN
+\bleverkwaal\b	N60	MAAG & LEVER & DARMEN
+\bleverkwalen\b	N60	MAAG & LEVER & DARMEN
+\blichaam\b	N4	
+\blichaamsgewicht\b	N4	LICHAAMSGEWICHT
+\blichaamsvet\b	N8	LICHAAMSVET
+\blichamelijk\b	ADJ51	
+\blichamelijk\b	ADV2	N.A.
+\blichamelijke\b	ADJ5	
+\blichte\b	ADJ10	N.A.
+\bliep\b	V31	
+\bliepen\b	V31	
+\bliet\b	AU	N.A.
+\blippen\b	N4	
+\blokale\b	ADJ10	N.A.
+\blong\b	N7	LONGEN & LUCHTWEGEN
+\blongen\b	N4	LONGEN & LUCHTWEGEN
+\bloop\b	V2	
+\bloop\b	V21	
+\bloopt\b	V2	
+\bloopt\b	V21	
+\blopen\b	V11	
+\bluchtwegen\b	N4	LONGEN & LUCHTWEGEN
+\blusteloos\b	ADJ4	ENERGIE
+\blusteloze\b	ADJ5	ENERGIE
+\bmaag\b	N4	MAAG & LEVER & DARMEN
+\bmaag\b	N7	MAAG & LEVER & DARMEN
+\bmaagbranden\b	N60	MAAG & LEVER & DARMEN
+\bmaagkramp\b	N60	MAAG & LEVER & DARMEN
+\bmaagkrampen\b	N60	MAAG & LEVER & DARMEN
+\bmaagproblemen\b	N60	MAAG & LEVER & DARMEN
+\bmaagzuur\b	N60	MAAG & LEVER & DARMEN
+\bmager\b	ADJ4	PHYSIQUE
+\bmagische\b	ADJ10	N.A.
+\bmagischerwijze\b	ADV2	N.A.
+\bmagistraal\b	ADJ13	UNSPECIFIED
+\bmagistrale\b	ADJ10	N.A.
+\bmagnifiek\b	ADJ13	UNSPECIFIED
+\bmagnifieke\b	ADJ10	N.A.
+\bmakende\b	ADJ21	UNSPECIFIED
+\bmakkelijk\b	ADV2	N.A.
+\bmakkelijker\b	ADV2	N.A.
+\bmanboobs\b	N8	PHYSIQUE
+\bmarginaal\b	ADJ13	UNSPECIFIED
+\bmarginale\b	ADJ10	N.A.
+\bmassa\b	N9	
+\bmassaverlies\b	N60	SPIEREN & SPIERFUNCTIE
+\bmassawinst\b	N60	
+\bmatig\b	ADJ13	UNSPECIFIED
+\bmatige\b	ADJ10	N.A.
+\bmax\b	ADJ13	UNSPECIFIED
+\bmaximaal\b	ADJ13	UNSPECIFIED
+\bmaximaal\b	ADV1	N.A.
+\bmaximale\b	ADJ10	N.A.
+\bmaximum\b	N9	
+\bmedische\b	ADJ5	
+\bmeer\b	ADJ13	UNSPECIFIED
+\bmeer\b	ADV1	N.A.
+\bmeer\b	ADV2	N.A.
+\bmeerwaarde\b	N9	
+\bmeest\b	ADV1	N.A.
+\bmeeste\b	ADJ10	N.A.
+\bmeetbaar\b	ADJ13	UNSPECIFIED
+\bmega\b	ADJ13	UNSPECIFIED
+\bmelkzuur\b	N8	SPIEREN & SPIERFUNCTIE
+\bmentale\b	ADJ5	PSYCHE
+\bmerk\b	V21	
+\bmerkbaar\b	ADJ13	UNSPECIFIED
+\bmerkbaar\b	ADV2	N.A.
+\bmerkbare\b	ADJ10	N.A.
+\bmerken\b	V1	
+\bmerkten\b	V31	
+\bmetabolisme\b	N8	MAAG & LEVER & DARMEN
+\bmieters\b	ADJ13	UNSPECIFIED
+\bmigraine aanvallen\b	N60	HOOFD
+\bmigraine\b	N60	HOOFD
+\bmijn\b	DET	N.A.
+\bmilkshake\b	N9	
+\bmind-muscle\b	N8	
+\bminder\b	ADJ13	UNSPECIFIED
+\bminder\b	ADV1	N.A.
+\bminder\b	ADV2	N.A.
+\bmindere\b	ADJ10	N.A.
+\bminimaal\b	ADJ13	UNSPECIFIED
+\bminimaal\b	ADV2	N.A.
+\bmirakuleuze\b	ADJ10	N.A.
+\bmiserabel\b	ADJ4	PSYCHE
+\bmisselijk\b	ADJ4	MAAG & LEVER & DARMEN
+\bmisselijkheid\b	N60	MAAG & LEVER & DARMEN
+\bmisselijkmakend\b	ADJ3	MAAG & LEVER & DARMEN
+\bmisselijkmakende\b	ADJ2	
+\bmn\b	DET	N.A.
+\bmoe\b	ADJ4	ENERGIE
+\bmoeilijk\b	ADJ13	UNSPECIFIED
+\bmoeilijk\b	ADV2	N.A.
+\bmogelijk\b	ADJ13	UNSPECIFIED
+\bmogelijke\b	ADJ10	N.A.
+\bmond\b	N4	
+\bmonsterlijk\b	ADJ13	UNSPECIFIED
+\bmonsterlijke\b	ADJ10	N.A.
+\bmoodswings\b	N60	PSYCHE
+\bmuscle\b	N8	SPIEREN & SPIERFUNCTIE
+\bna\b	PR	N.A.
+\bnaar\b	ADJ13	UNSPECIFIED
+\bnachtrust\b	N8	SLAPEN
+\bnadeel\b	N9	
+\bnadelen\b	N9	
+\bnadelig\b	ADJ13	UNSPECIFIED
+\bnadelige\b	ADJ10	N.A.
+\bnagels\b	N4	NAGELS
+\bnagtieve\b	ADJ10	N.A.
+\bnam\b	V3	
+\bnam\b	V31	
+\bnamen\b	V3	
+\bnamen\b	V31	
+\bnare\b	ADJ10	N.A.
+\bnatuurlijke\b	ADJ10	N.A.
+\bneem\b	V2	
+\bneem\b	V21	
+\bneemt\b	V2	
+\bneemt\b	V21	
+\bnegatief\b	ADJ13	UNSPECIFIED
+\bnegatief\b	ADV2	N.A.
+\bnegatieve\b	ADJ10	N.A.
+\bnegative\b	ADJ10	N.A.
+\bneigingen\b	N9	
+\bnek\b	N4	
+\bnemen\b	V11	
+\bnergens\b	ADV2	N.A.
+\bnerveus\b	ADJ4	PSYCHE	
+\bnervositeit\b	N60	PSYCHE
+\bneurasthenie\b	N60	
+\bneuroligische\b	ADJ5	
+\bneus\b	N4	KEEL & NEUS & OREN
+\bneveneffect\b	N2	
+\bneveneffecten\b	N2	
+\bnevenwerking\b	N2	
+\bnevenwerkingen\b	N2	
+\bnier\b	N4	NIEREN & NIERFUNCTIE
+\bnieren\b	N4	NIEREN & NIERFUNCTIE
+\bnierfalen\b	N60	NIEREN & NIERFUNCTIE
+\bnierfunctie\b	N8	NIEREN & NIERFUNCTIE
+\bniersteenvorming\b	N60	NIEREN & NIERFUNCTIE
+\bnieuwe\b	ADJ10	N.A.
+\bnocebo\b	N7	
+\bnodige\b	ADJ10	N.A.
+\bnogal\b	ADV1	N.A.
+\bnuttig\b	ADJ13	UNSPECIFIED
+\bobesitas\b	N8	LICHAAMSGEWICHT
+\bobstipatie\b	N60	MAAG & LEVER & DARMEN
+\boestrogeen\b	ADJ51	HORMOONHUISHOUDING	
+\boestrogeen\b	N8	HORMOONHUISHOUDING
+\boestrogene\b	ADJ5	HORMOONHUISHOUDING
+\boestrogenen\b	N8	HORMOONHUISHOUDING
+\bogen\b	N4	OGEN	
+\bomgekeerde\b	ADJ10	N.A.
+\bomgezet\b	ADJ7	
+\bomgezette\b	ADJ6	
+\bomhoog\b	ADV2	N.A.
+\bomhoog\b	PR	N.A.
+\bomlaag\b	ADV2	N.A.
+\bomlaag\b	PR	N.A.
+\bomstreden\b	ADJ67	
+\bomtrek\b	N9	
+\bomvang\b	N9	
+\bomzet\b	V2	
+\bomzette\b	V3	
+\bomzetten\b	PR	N.A.
+\bomzetten\b	V1	
+\bomzettend\b	ADJ31	UNSPECIFIED
+\bomzetting\b	N9	
+\bonder\b	PR	N.A.
+\bonderarm\b	N4	LEDEMATEN
+\bonderarmen\b	N4	LEDEMATEN
+\bonderdrukken\b	V1	
+\bonderdrukkende\b	ADJ21	UNSPECIFIED
+\bonderdrukking\b	N1
+\bonderdrukt\b	V2	
+\bonderdrukte\b	V3	
+\bondergewicht\b	N8	LICHAAMSGEWICHT
+\bonderhuids\b	ADJ51	
+\bonderhuids\b	ADV2	N.A.
+\bonderhuidse\b	ADJ5	
+\bonderkoeld\b	ADJ7	
+\bonderkoelde\b	ADJ6	LICHAAMSTEMPERATUUR
+\bondersteund\b	ADJ7	
+\bondersteunde\b	ADJ6	
+\bondersteunde\b	V3	
+\bondersteunen\b	V1	
+\bondersteunend\b	ADJ31	UNSPECIFIED
+\bondersteunende\b	ADJ21	UNSPECIFIED
+\bondersteuning\b	N9	
+\bondersteunt\b	V2	
+\bondervindt\b	V2	
+\bondervond\b	V3	
+\bondervonden\b	ADJ67	
+\bondraagelijk\b	ADJ13	UNSPECIFIED
+\bondragelijke\b	ADJ10	N.A.
+\boneindige\b	ADJ10	N.A.
+\bongeevenaarde\b	ADJ6	
+\bongekend\b	ADV1	N.A.
+\bongekende\b	ADJ21	UNSPECIFIED
+\bongelijk\b	ADJ13	UNSPECIFIED
+\bongelijke\b	ADJ10	N.A.
+\bongelimiteerde\b	ADJ6	
+\bongelofelijke\b	ADJ10	N.A.
+\bongeloofelijk\b	ADJ13	UNSPECIFIED
+\bongeloofelijke\b	ADJ10	N.A.
+\bongelooflijk\b	ADJ13	UNSPECIFIED
+\bongelooflijke\b	ADJ10	N.A.
+\bongemak\b	N3	
+\bongemakken\b	N3	
+\bongewenste\b	ADJ6	
+\bongezond\b	ADJ13	UNSPECIFIED
+\bongezond\b	ADV1	N.A.
+\bongunstig\b	ADV2	N.A.
+\bongunstige\b	ADJ10	N.A.
+\bonherroepelijk\b	ADV2	N.A.
+\bonmiddellijk\b	ADJ13	UNSPECIFIED
+\bonmiddellijk\b	ADV2	N.A.
+\bonnatuurlijk\b	ADV1	N.A.
+\bonnodig\b	ADV2	N.A.
+\bonovertroffen\b	ADJ13	UNSPECIFIED
+\bonprettig\b	ADJ4	PSYCHE
+\bonregelmatig\b	ADJ13	UNSPECIFIED
+\bonregelmatige\b	ADJ10	N.A.
+\bonrustbarend\b	ADJ31	UNSPECIFIED
+\bonrustig\b	ADJ4	PSYCHE
+\bonstabiel\b	ADJ13	UNSPECIFIED
+\bonstabiele\b	ADJ10	N.A.
+\bontdekte\b	ADJ6	
+\bontgiftende\b	ADJ2	
+\bontkalken\b	V1	
+\bontkalkend\b	ADJ3	BOTTEN & GEWRICHTEN
+\bontkalking\b	N8	BOTTEN & GEWRICHTEN
+\bontkalkt\b	V2	
+\bontkalkte\b	V2	
+\bontlast\b	V2	
+\bontlaste\b	ADJ6	
+\bontlasten\b	V1	
+\bontlastend\b	ADJ31	UNSPECIFIED
+\bontlasting\b	N4	MAAG & LEVER & DARMEN
+\bontlastte\b	V3	
+\bontregeld\b	ADJ7	
+\bontregelde\b	ADJ6	
+\bontregelde\b	V3	
+\bontregelen\b	V1	
+\bontregelt\b	V2	
+\bontrok\b	V3	
+\bontrokken\b	V3	
+\bontsmet\b	ADJ7	
+\bontsmet\b	V2	
+\bontsmette\b	ADJ6	
+\bontsmette\b	V3	
+\bontsmetten\b	V1	
+\bontsmettend\b	ADJ31	UNSPECIFIED
+\bontsmetting\b	N9	
+\bontspan\b	V2	
+\bontspande\b	V3	
+\bontspanden\b	V3	
+\bontspannen\b	V1	
+\bontspannend\b	ADJ3	PSYCHE
+\bontspant\b	V2	
+\bontstaan\b	V1	
+\bontstaat\b	V2	
+\bontstak\b	V3	ONTSTEKINGEN
+\bontsteekt\b	V2	ONTSTEKINGEN
+\bontsteken\b	V1	ONTSTEKINGEN
+\bontstekend\b	ADJ31	ONTSTEKINGEN
+\bontsteking\b	N61	ONTSTEKINGEN
+\bontsteking\b	N9	ONTSTEKINGEN	
+\bontstekingen\b	N61	ONTSTEKINGEN
+\bontstekingsbevorderend\b	ADJ3	ONTSTEKINGEN
+\bontstekingsbevorderende\b	ADJ2	ONTSTEKINGEN	
+\bontstekingsremmend\b	ADJ3	ONTSTEKINGEN
+\bontstekingsremmende\b	ADJ2	ONTSTEKINGEN
+\bontstoken\b	ADJ67	ONTSTEKINGEN
+\bontstond\b	V3	
+\bontstonden\b	V3	
+\bonttrekt\b	V2	
+\bontvettende\b	ADJ2	LICHAAMSVET
+\bontwikkeld\b	ADJ7	
+\bontwikkelde\b	ADJ6	
+\bontwikkelde\b	V3	
+\bontwikkelden\b	V3	
+\bontwikkelen\b	V1	
+\bontwikkeling\b	N1	
+\bontwikkelt\b	V2	
+\bontzettend\b	ADV1	N.A.
+\bonvergetelijk\b	ADJ13	UNSPECIFIED
+\bonvergetelijke\b	ADJ10	N.A.
+\bonwaarschijnlijk\b	ADV1	N.A.
+\bonwaarschijnlijke\b	ADJ10	N.A.
+\bonwijs\b	ADV1	N.A.
+\bonwijze\b	ADV1	N.A.
+\bonzeker\b	ADJ4	PSYCHE
+\boog\b	N4	OGEN
+\boog\b	N7	OGEN
+\boogleden\b	N4	OGEN
+\bop\b	PR	N.A.
+\bopbouw\b	N9	
+\bopbouw\b	V2	
+\bopbouwde\b	V3	
+\bopbouwden\b	V3	
+\bopbouwen\b	V1	
+\bopbouwend\b	ADJ12	UNSPECIFIED
+\bopbouwend\b	ADJ31	UNSPECIFIED
+\bopbouwende\b	ADJ21	UNSPECIFIED
+\bopbouwt\b	V2	
+\bopeengehoopt\b	ADJ7	
+\bopeengehoopte\b	ADJ6	
+\bopeenhopend\b	ADJ31	UNSPECIFIED
+\bopeenhoping\b	N9	
+\bopfokt\b	V2	
+\bopgeblazen\b	ADJ67	MAAG & LEVER & DARMEN	
+\bopgebouwd\b	ADJ7	
+\bopgebouwde\b	ADJ6	
+\bopgefokt\b	ADJ7	ENERGIE
+\bopgefokte\b	ADJ6	ENERGIE
+\bopgehoogd\b	ADJ7	
+\bopgehoogde\b	ADJ6	
+\bopgehoopt\b	ADJ7	
+\bopgelopen\b	ADJ67	
+\bopgenomen\b	ADJ67	
+\bopgeschoten\b	ADJ67	
+\bopgevoerd\b	ADJ7	
+\bopgevoerde\b	ADJ6	
+\bopgezet\b	ADJ7	
+\bopgezette\b	ADJ6	
+\bopgezwolle\b	ADJ67	
+\bopgezwollen\b	ADJ67	
+\bophoest\b	V2	
+\bophoesten\b	V1	
+\bophoestte\b	V3	
+\bophogen\b	V1	
+\bophoging\b	N9	
+\bophoogde\b	V3	
+\bophoogt\b	V2	
+\bophoopt\b	V2	
+\bophoopte\b	V3	
+\bophopen\b	V1	
+\bophopend\b	ADJ31	UNSPECIFIED
+\bophoping\b	N9	
+\bopliep\b	V3	
+\boploopt\b	V2	
+\boplopen\b	V1	
+\bopmerkelijke\b	ADJ10	N.A.
+\bopnam\b	V3	
+\bopname\b	N9	
+\bopnamen\b	V3	
+\bopneemt\b	V2	
+\bopnemen\b	V1	
+\boppeppende\b	ADJ2	ENERGIE
+\boprispingen\b	N60	MAAG & LEVER & DARMEN
+\boptimaal\b	ADJ13	UNSPECIFIED
+\boptimaal\b	ADV2	N.A.
+\boptimale\b	ADJ10	N.A.
+\bopvallende\b	ADJ21	UNSPECIFIED
+\bopvliegend\b	ADJ12	UNSPECIFIED
+\bopvliegerig\b	ADJ4	PSYCHE
+\bopvliegers\b	N61	HORMOONHUISHOUDING
+\bopvoerde\b	V3	
+\bopvoeren\b	V1	
+\bopvoerend\b	ADJ12	UNSPECIFIED
+\bopvoering\b	N9	
+\bopvoert\b	V2	
+\bopwekkend\b	ADJ12	UNSPECIFIED
+\bopwekkende\b	ADJ11	UNSPECIFIED
+\bopwekker\b	N9	
+\bopzienbarend\b	ADJ12	UNSPECIFIED
+\bopzienbarende\b	ADJ10	N.A.
+\bopzwellen\b	V1	
+\bopzwellende\b	ADJ11	UNSPECIFIED
+\bopzwelt\b	V2	
+\bopzwol\b	V3	
+\boverbelast\b	ADJ7	
+\boverbelaste\b	ADJ6	
+\boverbelasten\b	V1	
+\boverbelasten\b	V2	
+\boverbelasting\b	N9	
+\boverdosis\b	Q	N.A.
+\bovergewicht\b	N60	LICHAAMSGEWICHT
+\bovermatig\b	ADV2	N.A.
+\boverschreden\b	ADJ67	
+\bovertollige\b	ADJ10	N.A.
+\bovertraind\b	ADJ7	SPIEREN & SPIERFUNCTIE	
+\bovertrainde\b	ADJ6	SPIEREN & SPIERFUNCTIE	
+\boveruren\b	N9	
+\boverweldigend\b	ADJ31	UNSPECIFIED
+\boverweldigende\b	ADJ21	UNSPECIFIED
+\boxidante\b	ADJ5	
+\boxidatieprocessen\b	N8	
+\boxidatieve\b	ADJ5	
+\boxiderende\b	ADJ3	
+\bpakken\b	V11	
+\bpakt\b	V2	
+\bpakt\b	V21	
+\bpakte\b	V3	
+\bpakte\b	V31	
+\bpakten\b	V31	
+\bpaniekerig\b	ADJ4	PSYCHE
+\bpartij\b	Q	N.A.
+\bpees\b	N4	
+\bpens\b	N4	MAAG & LEVER & DARMEN
+\bpezen\b	N4	
+\bpijn aan\b	P2	N.A.
+\bpijn\b	N3	
+\bpijnjes\b	N61	
+\bpijnlijk\b	ADJ13	UNSPECIFIED
+\bpijnlijke\b	ADJ10	N.A.
+\bpijntjes\b	N61	
+\bplas\b	V2	NIEREN & NIERFUNCTIE
+\bplassen\b	V1	NIEREN & NIERFUNCTIE
+\bplast\b	V2	NIEREN & NIERFUNCTIE
+\bplaste\b	V3	
+\bplat\b	ADJ13	UNSPECIFIED
+\bplatte\b	ADJ10	N.A.
+\bplatter\b	ADJ13	UNSPECIFIED
+\bplattere\b	ADJ10	N.A.
+\bplofkop\b	N61	
+\bpomp\b	N8	
+\bposiieve\b	ADJ10	N.A.
+\bpositief\b	ADJ13	UNSPECIFIED
+\bpositief\b	ADV2	N.A.
+\bpositieve\b	ADJ10	N.A.
+\bpositive\b	ADJ10	N.A.
+\bpossitieve\b	ADJ10	N.A.
+\bpostief\b	ADJ13	UNSPECIFIED
+\bpotent\b	ADJ4	POTENTIE
+\bpotente\b	ADJ5	POTENTIE
+\bpotentieverhogend\b	ADJ3	POTENTIE
+\bpotentieverhogende\b	ADJ2	POTENTIE
+\bpower\b	N8	KRACHT
+\bprestatie\b	N9	
+\bprestatiebevorderend\b	ADJ3	
+\bprestatiebevorderende\b	ADJ2	UNSPECIFIED
+\bprestaties\b	N9	
+\bpresteer\b	V2	
+\bpresteerde\b	V3	
+\bpresteerden\b	V3	
+\bpresteert\b	V2	
+\bpresteren\b	V1	
+\bprettige\b	ADJ10	N.A.
+\bpreventief\b	ADJ13	UNSPECIFIED
+\bpreventieve\b	ADJ10	N.A.
+\bpreworkout\b	N7	
+\bprikkel\b	N9	
+\bprikkelde\b	V3	
+\bprikkelen\b	V1	
+\bprikkelend\b	ADJ31	UNSPECIFIED
+\bprikkels\b	N9	
+\bprikkelt\b	V2	
+\bprima\b	ADJ10	N.A.
+\bprobleem\b	N3	
+\bproblemen\b	N3	
+\bproduct\b	N9	
+\bprofijt\b	N9	
+\bprogressie\b	N1	
+\bpsychische\b	ADJ5	PSYCHE
+\bpsycho-actieve\b	ADJ5	PSYCHE
+\bpsycho\b	ADJ51	PSYCHE
+\bpsychologisch\b	ADJ51	PSYCHE
+\bpsychologische\b	ADJ5	PSYCHE
+\bpuil\b	V21	
+\bpuilde\b	V31	
+\bpuilden\b	V31	
+\bpuilt\b	V21	
+\bpuisten\b	N60	HUID
+\bpuistjes\b	N60	HUID
+\bpuistvorming\b	N60	HUID
+\bpuitjes\b	N60	HUID
+\bpukkels\b	N60	HUID
+\braak\b	V21	
+\braakt\b	V2	
+\braakt\b	V21	
+\braakte\b	V31	MAAG & LEVER & DARMEN
+\braakten\b	V31	MAAG & LEVER & DARMEN
+\braken\b	V1	
+\braken\b	V11	
+\brare\b	ADJ10	N.A.
+\breactie\b	N3	
+\breactief\b	ADJ13	UNSPECIFIED
+\breacties\b	N3	
+\breageer\b	V2	
+\breageerde\b	V3	
+\breageert\b	V2	
+\breageren\b	V1	
+\breagerend\b	ADJ31	UNSPECIFIED
+\brecuperatie\b	N8	HERSTEL
+\brecupereer\b	V2	HERSTEL	
+\brecupereerde\b	V3	HERSTEL	
+\brecupereert\b	V2	HERSTEL	
+\bredelijk\b	ADJ13	UNSPECIFIED
+\bredelijk\b	ADV1	N.A.
+\bregulatie\b	N9	
+\breguleerde\b	V3	
+\breguleert\b	V2	
+\breguleren\b	V1	
+\breguleren\b	V2	
+\bregulerend\b	ADJ31	UNSPECIFIED
+\breinigde\b	V3	
+\breinigen\b	V1	
+\breinigend\b	ADJ31	UNSPECIFIED
+\breinigende\b	ADJ21	UNSPECIFIED
+\breiniging\b	N9	
+\breinigt\b	V2	
+\brelaxte\b	ADJ10	N.A.
+\brelease\b	N9	
+\bremde\b	V31	
+\bremden\b	V31	
+\bremmen\b	V1	
+\bremmend\b	ADJ31	UNSPECIFIED
+\bremmend\b	V11	
+\bremmer\b	N9	
+\bremming\b	N1	
+\bremt\b	V21	
+\brendement\b	N2	
+\brespons\b	N9	
+\brest\b	N9	
+\bresultaat\b	N2	
+\brijke\b	ADJ10	N.A.
+\bril\b	V2	
+\brilde\b	V2	
+\brillen\b	V1	
+\brillend\b	ADJ3	
+\brilling\b	N8	
+\brilt\b	V2	
+\brisco\b	N9	
+\brisico\b	N9	
+\brisicovol\b	ADJ13	UNSPECIFIED
+\brooie\b	ADJ10	N.A.
+\brot\b	V2	
+\brot\b	V21	
+\brotte\b	ADJ10	N.A.
+\brotte\b	V3	
+\brotte\b	V31	
+\brotten\b	V1	
+\brotten\b	V11	
+\brottend\b	ADJ3	
+\brottingsdiarree\b	N60	MAAG & LEVER & DARMEN
+\brug\b	N4	RUG
+\brug\b	N7	RUG
+\brugklachten\b	N8	RUG
+\brugproblemen\b	N60	RUG
+\bsamen\b	PR	N.A.
+\bsamengetrokken\b	ADJ67	
+\bsamentrekken\b	V1	
+\bsamentrekkend\b	ADJ31	UNSPECIFIED
+\bsamentrekking\b	N9	
+\bsamentrekt\b	V2	
+\bsamentrok\b	V3	
+\bsamentrokken\b	V3	
+\bsarcopenie\b	N8	SPIEREN & SPIERFUNCTIE
+\bschaadde\b	V3	
+\bschaadden\b	V3	
+\bschaadt\b	V2	
+\bschade\b	N9	
+\bschadelijk\b	ADJ13	UNSPECIFIED
+\bschadelijke\b	ADj10	N.A.
+\bschaden\b	V1	
+\bschadend\b	ADJ31	UNSPECIFIED
+\bscheid\b	V2	
+\bscheid\b	V21	
+\bscheidde\b	V3	
+\bscheidde\b	V31	
+\bscheidden\b	V3	
+\bscheidden\b	V31	
+\bscheiden\b	V11	
+\bscheidt\b	V2	
+\bscheidt\b	V21	
+\bschepje\b	Q	N.A.
+\bscheten\b	N60	MAAG & LEVER & DARMEN
+\bschildklier\b	N4	HORMOONHUISHOUDING	
+\bschildklier\b	N7	HORMOONHUISHOUDING
+\bschildklierwaarden\b	N8	HORMOONHUISHOUDING
+\bschommeling\b	N1	
+\bschommelingen\b	N1	
+\bschone\b	ADJ10	N.A.
+\bschonere\b	ADJ10	N.A.
+\bseks\b	N8	POTENTIE
+\bseksuele\b	ADJ5	POTENTIE
+\bsensationeel\b	ADJ13	UNSPECIFIED
+\bsensationele\b	ADJ10	N.A.
+\bserieus\b	ADV1	N.A.
+\bserieusheid\b	N8	
+\bserieuze\b	ADJ10	N.A.
+\bshock\b	N60	PSYCHE
+\bshockreacties\b	N60	PSYCHE
+\bsignificante\b	ADJ10	N.A.
+\bsixpack\b	N8	PHYSIQUE
+\bslaap\b	N8	SLAPEN
+\bslaap\b	V2	SLAPEN	
+\bslaapkwaliteit\b	N8	SLAPEN
+\bslaapproblemen\b	N60	SLAPEN	
+\bslaapt\b	V2	SLAPEN	
+\bslaapverwekkend\b	ADJ3	SLAPEN	
+\bslaapverwekkende\b	ADJ2	SLAPEN
+\bslank\b	V21	LICHAAMSGEWICHT
+\bslanken\b	V11	LICHAAMSGEWICHT
+\bslankt\b	V21	LICHAAMSGEWICHT
+\bslankte\b	V3	LICHAAMSGEWICHT
+\bslankte\b	V31	LICHAAMSGEWICHT
+\bslankten\b	V31	LICHAAMSGEWICHT
+\bslap\b	ADJ4	ENERGIE
+\bslapeloos\b	ADJ51	SLAPEN
+\bslapeloosheid\b	N60	SLAPEN	
+\bslapen\b	V1	SLAPEN
+\bslaperig\b	ADJ4	SLAPEN	
+\bslaperige\b	ADJ10	N.A.
+\bslappe\b	ADJ10	N.A.
+\bslecht\b	ADJ13	UNSPECIFIED
+\bslechte\b	ADJ10	N.A.
+\bslechter\b	ADJ13	UNSPECIFIED
+\bsliep\b	V3	SLAPEN
+\bsliepen\b	V3	SLAPEN
+\bslinkt\b	V2	
+\bslonk\b	V3	
+\bslonken\b	V3	
+\bsloom\b	ADJ4	
+\bsloopt\b	V2	
+\bsloopte\b	V3	
+\bslopen\b	V1	
+\bslopend\b	ADJ3	
+\bslopende\b	ADJ2	CONDITIE
+\bsmerig\b	ADJ4	SENSATIE
+\bsnackdrang\b	N60	MAAG & LEVER & DARMEN	
+\bsnel\b	ADJ13	UNSPECIFIED
+\bsnel\b	ADV2	N.A.
+\bsnelle\b	ADJ10	N.A.
+\bsneller\b	ADJ13	UNSPECIFIED
+\bsneller\b	ADV2	N.A.
+\bsnellere\b	ADJ10	N.A.
+\bsnelste\b	ADJ10	N.A.
+\bsoortgelijk\b	ADJ13	UNSPECIFIED
+\bsoortgelijke\b	ADJ10	N.A.
+\bspanning\b	N61	
+\bspanningshoofdpijn\b	N60	STRESS	
+\bspanningshoofdpijnen\b	N60	STRESS
+\bspataderen\b	N60	HART & VAATSTELSEL
+\bspeciaal\b	ADJ13	UNSPECIFIED
+\bspecial\b	ADJ13	UNSPECIFIED
+\bspecifiek\b	ADJ13	UNSPECIFIED
+\bspecifieke\b	ADJ10	N.A.
+\bspectaculair\b	ADV2	N.A.
+\bspectaculair\b	ADJ13	UNSPECIFIED
+\bspectaculaire\b	ADJ10	N.A.
+\bspier\b	N4	SPIEREN & SPIERFUNCTIE
+\bspierafbraak\b	N60	SPIEREN & SPIERFUNCTIE
+\bspierafbrekend\b	ADJ3	SPIEREN & SPIERFUNCTIE
+\bspierafbrekende\b	ADJ2	SPIEREN & SPIERFUNCTIE
+\bspierafbreuk\b	N60	SPIEREN & SPIERFUNCTIE
+\bspiercellen\b	N8	SPIEREN & SPIERFUNCTIE
+\bspiercontractie\b	N8	SPIEREN & SPIERFUNCTIE
+\bspierdefenitie\b	N8	SPIEREN & SPIERFUNCTIE
+\bspierdefinitie\b	N8	SPIEREN & SPIERFUNCTIE
+\bspieren\b	N4	SPIEREN & SPIERFUNCTIE
+\bspiergoei\b	N81	SPIEREN & SPIERFUNCTIE
+\bspiergroei\b	N81	SPIEREN & SPIERFUNCTIE
+\bspierherstel\b	N8	SPIEREN & SPIERFUNCTIE
+\bspierkracht\b	N8	SPIEREN & SPIERFUNCTIE
+\bspiermassa\b	N8	SPIEREN & SPIERFUNCTIE
+\bspiermassaverlies\b	N60	SPIEREN & SPIERFUNCTIE
+\bspiermassawinst\b	N8	SPIEREN & SPIERFUNCTIE
+\bspiermasse\b	N8	SPIEREN & SPIERFUNCTIE
+\bspieropbouw\b	N8	SPIEREN & SPIERFUNCTIE
+\bspieropbouwend\b	ADJ3	SPIEREN & SPIERFUNCTIE
+\bspieropbouwende\b	ADJ2	SPIEREN & SPIERFUNCTIE
+\bspierpijn\b	N60	SPIEREN & SPIERFUNCTIE
+\bspierpijnen\b	N60	SPIEREN & SPIERFUNCTIE
+\bspierregeneratie\b	N8	SPIEREN & SPIERFUNCTIE
+\bspierverlies\b	N60	SPIEREN & SPIERFUNCTIE
+\bspiervezels\b	N8	SPIEREN & SPIERFUNCTIE
+\bspierweefsel\b	N8	SPIEREN & SPIERFUNCTIE
+\bspijsvertering\b	N4	MAAG & LEVER & DARMEN
+\bspijsverterings\b	N7	MAAG & LEVER & DARMEN
+\bspontane\b	ADJ10	N.A.
+\bsportergogene\b	ADJ5	
+\bsporters\b	N7	
+\bsportprestatie\b	N8	
+\bsportprestatieverhogend\b	ADJ3	
+\bsportprestatieverhogende\b	ADJ2	UNSPECIFIED
+\bstaat\b	N9	
+\bstabiele\b	ADJ10	N.A.
+\bstagneerde\b	V3	
+\bstagneert\b	V2	
+\bstagneren\b	V1	
+\bstagnerend\b	ADJ31	UNSPECIFIED
+\bstagnerende\b	ADJ2	UNSPECIFIED
+\bsteeds\b	ADV2	N.A.
+\bsteeg\b	V3	
+\bsteengoed\b	ADJ13	UNSPECIFIED
+\bsteengoede\b	ADJ10	N.A.
+\bstekend\b	ADJ31	UNSPECIFIED
+\bstekende\b	ADJ21	UNSPECIFIED
+\bstemmingsstoornis\b	N8	PSYCHE
+\bstemmingswisselingen\b	N60	PSYCHE
+\bsterft\b	V2	
+\bsterft\b	V21	
+\bsterk\b	ADJ4	
+\bsterk\b	ADV1	N.A.
+\bsterke\b	ADJ10	N.A.
+\bsterker\b	ADJ13	UNSPECIFIED
+\bsterkere\b	ADJ10	N.A.
+\bsterven\b	V1	
+\bsterven\b	V11	
+\bstevig\b	ADJ4	
+\bstevige\b	ADJ10	N.A.
+\bsteviger\b	ADJ13	UNSPECIFIED
+\bstevigere\b	ADJ10	N.A.
+\bstierf\b	V3	
+\bstierf\b	V31	
+\bstierven\b	V3	
+\bstierven\b	V31	
+\bstijf\b	ADJ4	SPIEREN & SPIERFUNCTIE
+\bstijf\b	ADV2	N.A.
+\bstijgen\b	V1	
+\bstijging\b	N1	
+\bstijgt\b	V2	
+\bstijve\b	ADJ10	N.A.
+\bstilde\b	V3	
+\bstillen\b	V1	
+\bstillend\b	ADJ12	UNSPECIFIED
+\bstilt\b	V2	MAAG & LEVER & DARMEN
+\bstimulans\b	N8	STIMULATIE
+\bstimuleerde\b	V3	STIMULATIE
+\bstimuleerden\b	V3	STIMULATIE
+\bstimuleert\b	V2	STIMULATIE
+\bstimuleren\b	V1	STIMULATIE
+\bstimulerend\b	ADJ31	STIMULATIE
+\bstimulerende\b	ADJ2	STIMULATIE
+\bstimulering\b	N8	STIMULATIE
+\bstinken\b	V1	
+\bstinken\b	V2	
+\bstinkende\b	ADJ2	UNSPECIFIED
+\bstinkt\b	V2	
+\bstoelgang\b	N4	MAAG & LEVER & DARMEN
+\bstofwisseling\b	N4	MAAG & LEVER & DARMEN
+\bstofwisselings\b	N7	MAAG & LEVER & DARMEN
+\bstolde\b	V3	BLOED & BLOEDSAMENSTELLING
+\bstolden\b	V3	BLOED & BLOEDSAMENSTELLING
+\bstollen\b	V1	BLOED & BLOEDSAMENSTELLING
+\bstollend\b	ADJ3	BLOED & BLOEDSAMENSTELLING
+\bstollende\b	ADJ2	BLOED & BLOEDSAMENSTELLING
+\bstolling\b	N8	BLOED & BLOEDSAMENSTELLING
+\bstolt\b	V2	BLOED & BLOEDSAMENSTELLING
+\bstoornis\b	N8	
+\bstoot\b	N9	
+\bstrakke\b	ADJ10	N.A.
+\bstrakker\b	ADJ13	UNSPECIFIED
+\bstrakker\b	ADV2	N.A.
+\bstrakkere\b	ADJ10	N.A.
+\bstress\b	N60	STRESS
+\bstressverhogend\b	ADJ3	STRESS
+\bstressverlagend\b	ADJ3	STRESS
+\bstressverlagende\b	ADJ2	STRESS
+\bstromen\b	V1	HART & VAATSTELSEL
+\bstromend\b	ADJ31	HART & VAATSTELSEL
+\bstroming\b	N9	HART & VAATSTELSEL
+\bstroomde\b	V3	HART & VAATSTELSEL
+\bstroomden\b	V3	HART & VAATSTELSEL
+\bstroomt\b	V2	HART & VAATSTELSEL
+\bstuk\b	ADV1	N.A.
+\bsu-per\b	ADJ4	
+\bsu-per\b	ADV1	N.A.
+\bsubliem\b	ADJ13	UNSPECIFIED
+\bsublieme\b	ADJ10	N.A.
+\bsuboptimaal\b	ADJ4	
+\bsuikerspiegel\b	N4	BLOED & BLOEDSAMENSTELLING
+\bsupeer\b	ADJ4	
+\bsupeer\b	ADV1	N.A.
+\bsuper\b	ADJ4	
+\bsuper\b	ADV1	N.A.
+\bsuperactief\b	ADJ13	UNSPECIFIED
+\bsuperloading\b	ADJ13	UNSPECIFIED
+\bsuperveel\b	Q	N.A.
+\bsupletie\b	N9	
+\bsuppletie\b	N9	
+\bsymptomen\b	N2	
+\bsymptoom\b	N2	
+\bsynergetisch\b	ADJ51	
+\bsynergetische\b	ADJ5	
+\bsynergistisch\b	ADJ51	
+\bsynergistische\b	ADJ5	
+\btaille\b	N4	PHYSIQUE
+\btailleomvang\b	N4	PHYSIQUE
+\btanden\b	N4	GEBIT
+\btandvlees\b	N4	GEBIT
+\btast\b	V2	
+\btast\b	V21	
+\btasten\b	V11	
+\btastte\b	V3	
+\btastte\b	V31	
+\btastten\b	V3	
+\btastten\b	V31	
+\bte\b	ADV3	N.A.
+\btegek\b	ADJ13	UNSPECIFIED
+\btegekke\b	ADJ10	N.A.
+\btegen\b	PR	N.A.
+\btegengaan\b	V1
+\btegengaat\b	V2	
+\btegengegaan\b	ADJ7
+\btegengesteld\b	ADJ7	
+\btegengestelde\b	ADJ6	
+\btegenovergesteld\b	ADJ7	
+\btegenovergestelde\b	ADJ6	
+\btegenstrijdig\b	ADJ13	UNSPECIFIED
+\btegenwerken\b	V1	
+\btegenwerkend\b	ADJ31	UNSPECIFIED
+\btegenwerking\b	N9	
+\btegenwerkt\b	V2	
+\btegenwerkte\b	V3	
+\btekort\b	N9	
+\btekort\b	PR	N.A.
+\btekortgekomen\b	ADJ67	
+\btekortkom\b	V2	
+\btekortkomen\b	V1	
+\btekortkomend\b	ADJ31	UNSPECIFIED
+\btekortkoming\b	N9	
+\btekortkomt\b	V2	
+\btekortkwam\b	V3	
+\btekortkwamen\b	V3	
+\bteniet\b	PR	N.A.
+\btenietdeden\b	V3	
+\btenietdeed\b	V3	
+\btenietdoen\b	V1	
+\btenietdoend\b	ADJ31	UNSPECIFIED
+\btenietdoet\b	V2	
+\btenietgedaan\b	ADJ7	
+\btenietgedane\b	ADJ6	
+\btestosteron\b	N8	HORMOONHUISHOUDING
+\btestosteronproductie\b	N8	HORMOONHUISHOUDING	
+\btestosteronspiegel\b	N4	HORMOONHUISHOUDING
+\btestosteronverhogend\b	ADJ3	
+\btestosteronverhogende\b	ADJ2	
+\bteveel\b	Q	N.A.
+\bteweeg\b	PR	N.A.
+\btherapeutisch\b	ADJ51	
+\btherapeutische\b	ADJ5	
+\bthermogeen\b	ADJ51	
+\bthermogene\b	ADJ5	
+\bthermogenisch\b	ADJ51	
+\btieten\b	N4	PHYSIQUE
+\btijdelijke\b	ADJ10	N.A.
+\btime-released\b	ADJ67	
+\btintelingen\b	N60	ZENUWEN
+\btits\b	N4	PHYSIQUE
+\btoe\b	PR	N.A.
+\btoebracht\b	V3	
+\btoebrachten\b	V3	
+\btoebrengen\b	V1	
+\btoebrengend\b	ADJ31	UNSPECIFIED
+\btoebrenging\b	N9	
+\btoebrengt\b	V2	
+\btoegebracht\b	ADJ7	
+\btoegebrachte\b	ADJ6	
+\btoegenomen\b	ADJ67	
+\btoenam\b	V3	
+\btoename\b	N1	
+\btoenamen\b	V3	
+\btoeneem\b	V2	
+\btoeneemt\b	V2	
+\btoenemen\b	V1	
+\btoenemend\b	ADJ31	UNSPECIFIED
+\btoenemende\b	ADJ11	UNSPECIFIED
+\btoevoer\b	N9	
+\btong\b	N4	
+\btonnen\b	Q	N.A.
+\btotaal\b	ADV1	N.A.
+\btraag\b	ADJ13	UNSPECIFIED
+\btrager\b	ADJ13	UNSPECIFIED
+\btragere\b	ADJ10	N.A.
+\btransporterend\b	ADJ3	
+\btransporterende\b	ADJ21	UNSPECIFIED
+\btrek\b	V21	
+\btrekken\b	V11	
+\btrekt\b	V21	
+\btrillen\b	V1	STRESS
+\btrillen\b	V2	STRESS	
+\btrillende\b	ADJ21	UNSPECIFIED
+\btrillerig\b	ADJ13	STRESS
+\btrok\b	V3	
+\btrokken\b	V3	
+\btrokken\b	V31	
+\btzelfde\b	DET	N.A.
+\bubercool\b	ADJ13	UNSPECIFIED
+\buit\b	PR	N.A.
+\buitdrogen\b	V1	VOCHTHUISHOUDING
+\buitdroog\b	V2	VOCHTHUISHOUDING	
+\buitdroogde\b	V3	VOCHTHUISHOUDING
+\buitdroogt\b	V2	VOCHTHUISHOUDING
+\buiterst\b	ADV1	N.A.
+\buitgedroogd\b	ADJ7	VOCHTHUISHOUDING
+\buitgedroogde\b	ADJ6	VOCHTHUISHOUDING
+\buitgeput\b	ADJ7	ENERGIE
+\buitgeputte\b	ADJ6	ENERGIE
+\buitgerekt\b	ADJ7	SPIEREN & SPIERFUNCTIE
+\buitgerekte\b	ADJ6	
+\buithoudingsvermogen\b	N8	CONDITIE
+\buitpakken\b	V1	
+\buitpakt\b	V2	
+\buitpakte\b	V3	
+\buitputtend\b	ADJ3	ENERGIE
+\buitputtende\b	ADJ2	ENERGIE
+\buitschieter\b	N9	
+\buitschieters\b	N9	
+\buitslag\b	N60	HUID
+\buitzag\b	V3	
+\buitzagen\b	V3	
+\buitzet\b	V2	
+\buitzette\b	V3	
+\buitzetten\b	V1	
+\buitzie\b	V2	
+\buitzien\b	V1	
+\buitziet\b	V2	
+\buitzonderlijk\b	ADJ13	UNSPECIFIED
+\buitzonderlijk\b	ADV1	N.A.
+\buitzonderlijke\b	ADJ10	N.A.
+\buizetten\b	V1	
+\buizetten\b	V2	
+\bultiem\b	ADJ13	UNSPECIFIED
+\bultieme\b	ADJ10	N.A.
+\bvaat-verwijdende\b	ADJ2	HART & VAATSTELSEL
+\bvaatverwijdend\b	ADJ3	HART & VAATSTELSEL
+\bvaatverwijdende\b	ADJ2	HART & VAATSTELSEL
+\bval\b	V21	
+\bvallen\b	V11	LICHAAMSGEWICHT
+\bvalt\b	V21	
+\bvan\b	VAN
+\bvast\b	PR	N.A.
+\bvasthield\b	V3	
+\bvasthielden\b	V3	
+\bvasthoud\b	V2	
+\bvasthouden\b	V1	
+\bvasthoudt\b	V2	
+\bvatbaar\b	ADJ13	UNSPECIFIED
+\bveel\b	Q	N.A.
+\bveelzijdige\b	ADJ10	N.A.
+\bvegrote\b	ADJ6	
+\bver-schrik-ke-lijk\b	ADJ13	UNSPECIFIED
+\bverander\b	V2	
+\bveranderd\b	ADJ7	
+\bveranderde\b	ADJ6	
+\bveranderde\b	V3	
+\bveranderden\b	V3	
+\bveranderen\b	V1	
+\bveranderingen\b	N9	
+\bverandert\b	V2	
+\bverbazingwekkend\b	ADJ31	UNSPECIFIED
+\bverbazingwekkende\b	ADJ21	UNSPECIFIED
+\bverbeter\b	V2	
+\bverbeterd\b	ADJ7	
+\bverbeterde\b	ADJ6	
+\bverbeterde\b	V3	
+\bverbeterden\b	V3	
+\bverbeteren\b	V1	
+\bverbetering\b	N1	
+\bverbetert\b	V2	
+\bverbijsterend\b	ADJ31	UNSPECIFIED
+\bverbijsterende\b	ADJ21	UNSPECIFIED
+\bverbluffend\b	ADJ31	UNSPECIFIED
+\bverbluffende\b	ADJ21	UNSPECIFIED
+\bverbrand\b	ADJ7	ENERGIE
+\bverbrand\b	V2	MAAG & LEVER & DARMEN
+\bverbrandden\b	V3	
+\bverbrande\b	ADJ6	
+\bverbranden\b	V1	
+\bverbrandend\b	ADJ31	UNSPECIFIED
+\bverbrandende\b	ADJ21	UNSPECIFIED
+\bverbranding\b	N9	ENERGIE
+\bverbrandt\b	V2	MAAG & LEVER & DARMEN
+\bverbruik\b	N9	
+\bverbruikt\b	V2	
+\bverdragen\b	V1	
+\bverdragen\b	V2	
+\bverdrievoudigde\b	V3	
+\bverdrievoudigden\b	V3	
+\bverdrievoudigen\b	V1	
+\bverdrievoudigt\b	V2	
+\bverdunde\b	V3	
+\bverdunnend\b	ADJ31	UNSPECIFIED
+\bverdunnende\b	ADJ21	UNSPECIFIED
+\bverdunt\b	V2	
+\bverdween\b	V3	
+\bverdwijnen\b	V1	
+\bverdwijnt\b	V2	
+\bvergelijkbaar\b	ADJ13	UNSPECIFIED
+\bvergelijkbare\b	ADJ10	N.A.
+\bvergiftigd\b	ADJ7	
+\bvergiftigde\b	ADJ6	
+\bvergiftigen\b	V1	
+\bvergiftigend\b	ADJ31	UNSPECIFIED
+\bvergiftigende\b	ADJ21	UNSPECIFIED
+\bvergiftiging\b	N60	
+\bvergiftigingsverschijnselen\b	N60	
+\bvergiftigt\b	V2	
+\bvergroei\b	V2	GROEI
+\bvergroeid\b	ADJ7	GROEI	
+\bvergroeide\b	ADJ6	GROEI	
+\bvergroeide\b	V3	GROEI
+\bvergroeiden\b	V3	GROEI
+\bvergroeien\b	V1	GROEI	
+\bvergroeijde\b	ADJ6	GROEI	
+\bvergroeit\b	V2	GROEI
+\bvergroot\b	ADJ7	
+\bvergroot\b	V2	
+\bvergrootte\b	V3	
+\bvergrootten\b	V3	
+\bvergroten\b	V1	
+\bvergrotend\b	ADJ31	UNSPECIFIED
+\bvergrotende\b	ADJ21	UNSPECIFIED
+\bvergroting\b	N1	
+\bverhogen\b	V1	
+\bverhogend\b	ADJ31	UNSPECIFIED
+\bverhogende\b	ADJ21	UNSPECIFIED
+\bverhoging\b	N1	
+\bverhoogd\b	ADJ7	
+\bverhoogde\b	ADJ6	
+\bverhoogde\b	V3		
+\bverhoogden\b	V3	
+\bverhoogt\b	V2	
+\bverlaagde\b	V3	
+\bverlaagden\b	V3	
+\bverlaagt\b	V2	
+\bverlagen\b	V1	
+\bverlagend\b	ADJ31	UNSPECIFIED
+\bverlagende\b	ADJ21	UNSPECIFIED
+\bverlamming\b	N60	SPIEREN & SPIERFUNCTIE
+\bverlammingen\b	N60	SPIEREN & SPIERFUNCTIE
+\bverlammingsverschijnselen\b	N60	SPIEREN & SPIERFUNCTIE
+\bverliep\b	V3	
+\bverliepen\b	V2	
+\bverlies\b	N1	
+\bverliest\b	V2	
+\bverliezen\b	V1	
+\bverliezen\b	V2	
+\bverloopt\b	V2	
+\bverloor\b	V3	
+\bverlopen\b	V1	
+\bverloren\b	V1	
+\bverloren\b	V3	
+\bverminderd\b	ADJ7	
+\bverminderde\b	ADJ6	
+\bverminderde\b	V3	
+\bverminderden\b	V3	
+\bverminderen\b	V1	
+\bverminderend\b	ADJ31	UNSPECIFIED
+\bverminderende\b	ADJ21	UNSPECIFIED
+\bvermindering\b	N1	
+\bvermindert\b	V2	
+\bvermoeid\b	ADJ7	ENERGIE
+\bvermoeide\b	ADJ6	ENERGIE
+\bvermoeide\b	V3	ENERGIE
+\bvermoeiden\b	V3	ENERGIE
+\bvermoeidheid\b	N60	ENERGIE
+\bvermoeidheids\b	N7	ENERGIE
+\bvermoeidheidsklachten\b	N60	ENERGIE	
+\bvermoeien\b	V1	
+\bvermoeiend\b	ADJ3	ENERGIE
+\bvermoeit\b	V2	ENERGIE
+\bvernauwd\b	ADJ7	
+\bvernauwde\b	ADJ6	
+\bvernauwde\b	V3	
+\bvernauwden\b	V3	
+\bvernauwen\b	V1	
+\bvernauwt\b	V2	
+\bvernietigde\b	V3	
+\bvernietigden\b	V3	
+\bvernietigen\b	V1	
+\bvernietigend\b	ADJ31	UNSPECIFIED
+\bvernietigende\b	ADJ21	UNSPECIFIED
+\bvernietigt\b	V2	
+\bveroorzaakt\b	V2	
+\bveroorzaakte\b	V3	
+\bveroorzaakten\b	V3	
+\bveroorzaken\b	V1	
+\bveroorzakend\b	ADJ12	UNSPECIFIED
+\bverpletterend\b	ADJ31	UNSPECIFIED
+\bverpletterende\b	ADJ21	UNSPECIFIED
+\bverrassend\b	ADJ31	UNSPECIFIED
+\bverrassend\b	ADV1	N.A.
+\bverrassende\b	ADJ21	UNSPECIFIED
+\bverrukkelijk\b	ADJ13	UNSPECIFIED
+\bverrukkelijke\b	ADJ10	N.A.
+\bverschil\b	N1	
+\bverschillen\b	N1	
+\bverschillende\b	ADJ21	UNSPECIFIED
+\bverschrijkkelijk\b	ADJ13	UNSPECIFIED
+\bverschrikkelijk\b	ADJ13	UNSPECIFIED
+\bverschrikkelijke\b	ADJ10	N.A.
+\bverschrikkelyk\b	ADJ13	UNSPECIFIED
+\bverslaafd\b	ADJ7	
+\bverslapping\b	N1	
+\bverslavend\b	ADJ3	
+\bverslavende\b	ADJ2	
+\bversneld\b	ADJ7	
+\bversnelde\b	ADJ6	
+\bversnelde\b	V3	
+\bversnelden\b	V3	
+\bversnellen\b	V1	
+\bversnellende\b	ADJ21	UNSPECIFIED
+\bversnellig\b	N1	
+\bversnelling\b	N1	
+\bversnelt\b	V2	
+\bversterken\b	V1	
+\bversterkend\b	ADJ31	UNSPECIFIED
+\bversterkende\b	ADJ21	UNSPECIFIED
+\bversterkt\b	ADJ7	
+\bversterkt\b	V2	
+\bversterkte\b	ADJ6	
+\bversterkte\b	V3	
+\bversterkten\b	V3	
+\bverstoord\b	ADJ7	
+\bverstoorde\b	ADJ6	
+\bverstoorde\b	V3	
+\bverstoorden\b	V3	
+\bverstoort\b	V2	
+\bverstoren\b	V1	
+\bverstorend\b	ADJ31	UNSPECIFIED
+\bverstorende\b	ADJ21	UNSPECIFIED
+\bverteerbaar\b	ADJ51	MAAG & LEVER & DARMEN
+\bverteerd\b	ADJ7	MAAG & LEVER & DARMEN
+\bverteerde\b	ADJ6	MAAG & LEVER & DARMEN
+\bverteert\b	V2	MAAG & LEVER & DARMEN
+\bverteren\b	V1	MAAG & LEVER & DARMEN	
+\bvertering\b	N8	MAAG & LEVER & DARMEN
+\bverteringsproces\b	N8	MAAG & LEVER & DARMEN
+\bvertraagd\b	ADJ7	
+\bvertraagde\b	ADJ6	
+\bvertraagde\b	V3	
+\bvertraagden\b	V3	
+\bvertraagt\b	V2	
+\bvertragen\b	V1	
+\bvertragend\b	ADJ31	UNSPECIFIED
+\bvertragende\b	ADJ21	UNSPECIFIED
+\bverukkelijk\b	ADJ13	UNSPECIFIED
+\bvervelend\b	ADJ31	UNSPECIFIED
+\bvervelende\b	ADJ21	UNSPECIFIED
+\bverwijdde\b	V3	
+\bverwijdden\b	V3	
+\bverwijdend\b	ADJ31	UNSPECIFIED
+\bverwijdende\b	ADJ21	UNSPECIFIED
+\bverwijdt\b	V2	
+\bverzadigend\b	ADJ31	UNSPECIFIED
+\bverzadigende\b	ADJ21	UNSPECIFIED
+\bverzurend\b	ADJ3	SPIEREN & SPIERFUNCTIE
+\bverzurende\b	ADJ2	SPIEREN & SPIERFUNCTIE
+\bverzuring\b	N60	SPIEREN & SPIERFUNCTIE
+\bverzuurd\b	ADJ7	SPIEREN & SPIERFUNCTIE
+\bvet\b	ADJ51	
+\bvet\b	ADV1	N.A.
+\bvet\b	N60	
+\bvetafbraakstimulerend\b	ADJ3	LICHAAMSVET
+\bvetafbraakstimulerende\b	ADJ2	LICHAAMSVET
+\bvetcellen\b	N8	LICHAAMSVET
+\bvetlaag\b	N4	LICHAAMSVET
+\bvetlaagje\b	N8	LICHAAMSVET
+\bvetlagen\b	N8	LICHAAMSVET
+\bvetmassa\b	N8	LICHAAMSVET
+\bvetoplossend\b	ADJ3	LICHAAMSVET
+\bvetoplossende\b	ADJ2	LICHAAMSVET
+\bvetopname\b	N60	LICHAAMSVET	
+\bvetopslag\b	N60	LICHAAMSVET	
+\bvetopslagbevorderend\b	ADJ3	LICHAAMSVET
+\bvetopslagbevorderende\b	ADJ2	LICHAAMSVET
+\bvetpens\b	N8	LICHAAMSVET
+\bvetpercentage\b	N8	LICHAAMSVET
+\bvetreserve\b	N8	LICHAAMSVET
+\bvetreserves\b	N8	LICHAAMSVET
+\bvetrol\b	N8	LICHAAMSVET
+\bvetrollen\b	N8	LICHAAMSVET
+\bvette\b	ADJ10	N.A.
+\bvetverbrandend\b	ADJ3	LICHAAMSVET
+\bvetverbrandende\b	ADJ2	LICHAAMSVET
+\bvetverbranding\b	N8	LICHAAMSVET
+\bvetverbruik\b	N8	LICHAAMSVET
+\bvetverlies\b	N81	LICHAAMSVET
+\bvetweefsel\b	N8	LICHAAMSVET
+\bvetwinst\b	N8	LICHAAMSVET
+\bviel\b	V3	
+\bviel\b	V31	
+\bvielen\b	V3	
+\bvielen\b	V31	
+\bvieze\b	ADJ10	N.A.
+\bvingers\b	N4	
+\bvitaliteit\b	N8	
+\bvliegt\b	V2	
+\bvloog\b	V3	
+\bvocht\b	N60	VOCHTHUISHOUDING
+\bvochtafdrijvend\b	ADJ3	VOCHTHUISHOUDING
+\bvochtafdrijvende\b	ADJ2	VOCHTHUISHOUDING
+\bvochtafvoer\b	N81	VOCHTHUISHOUDING
+\bvochtbalans\b	N4	VOCHTHUISHOUDING
+\bvochtblaasjes\b	N60	VOCHTHUISHOUDING
+\bvochtbuik\b	N8	VOCHTHUISHOUDING	
+\bvochtkop\b	N8	VOCHTHUISHOUDING	
+\bvochtophopend\b	ADJ3	VOCHTHUISHOUDING
+\bvochtophopende\b	ADJ2	VOCHTHUISHOUDING
+\bvochtophoping\b	N60	VOCHTHUISHOUDING
+\bvochtopslag\b	N60	VOCHTHUISHOUDING
+\bvochtuitdrijvend\b	ADJ3	VOCHTHUISHOUDING
+\bvochtuitdrijvende\b	ADJ2	VOCHTHUISHOUDING
+\bvochtvasthoudend\b	ADJ3	VOCHTHUISHOUDING
+\bvochtvasthoudende\b	ADJ2	VOCHTHUISHOUDING
+\bvochtverlies\b	N60	VOCHTHUISHOUDING
+\bvoel\b	V2	
+\bvoelde\b	V3	
+\bvoelde\b	V31	
+\bvoelden\b	V3	
+\bvoelen\b	V1	
+\bvoelen\b	V11	
+\bvoelt\b	V2	
+\bvoelt\b	V21	
+\bvoerde\b	V3	
+\bvoerde\b	V31	
+\bvoerden\b	V3	
+\bvoeren\b	V11	
+\bvoert\b	V2	
+\bvoert\b	V21	
+\bvoet\b	N4	LEDEMATEN
+\bvoeten\b	N4	LEDEMATEN
+\bvolle\b	ADJ10	N.A.
+\bvoller\b	ADJ13	UNSPECIFIED
+\bvollere\b	ADJ10	N.A.
+\bvolop\b	ADV2	N.A.
+\bvoor\b	PR	N.A.
+\bvooral\b	ADV2	N.A.
+\bvoordelig\b	ADJ13	UNSPECIFIED
+\bvoorkomen\b	V1	
+\bvoorkomt\b	V2	
+\bvoorkwam\b	V3	
+\bvoorkwamen\b	V3	
+\bvoorname\b	ADJ10	N.A.
+\bvoortand\b	N4	GEBIT
+\bvoortanden\b	N4	GEBIT
+\bvoortreffelijk\b	ADJ13	UNSPECIFIED
+\bvoortreffelijke\b	ADJ10	N.A.
+\bvooruitgang\b	N1	
+\bvreetbuien\b	N8	MAAG & LEVER & DARMEN
+\bvreetneigingen\b	N8	MAAG & LEVER & DARMEN
+\bvreselijk\b	ADJ13	UNSPECIFIED
+\bvrij\b	ADV1	N.A.
+\bvruchtafdrijvend\b	ADJ3	
+\bvruchtafdrijvende\b	ADJ2	
+\bwaanzinnig\b	ADJ13	UNSPECIFIED
+\bwaanzinnige\b	ADJ10	N.A.
+\bwarm\b	ADJ13	UNSPECIFIED
+\bwarmer\b	ADJ13	UNSPECIFIED
+\bwarmere\b	ADJ10	N.A.
+\bwat\b	ADV1	N.A.
+\bwat\b	DET	N.A.
+\bwateretentie\b	N8	VOCHTHUISHOUDING
+\bwaterrententie\b	N8	VOCHTHUISHOUDING
+\bwaterretentie\b	N8	VOCHTHUISHOUDING
+\bweefsel\b	N8	
+\bweerstand\b	N8	
+\bweg\b	PR	N.A.
+\bweggerot\b	ADJ7	
+\bweggerotte\b	ADJ6	
+\bwegnam\b	V3	
+\bwegname\b	N1	
+\bwegnamen\b	V3	
+\bwegneemt\b	V2	
+\bwegnemen\b	V1	
+\bwegnemend\b	ADJ31	UNSPECIFIED
+\bwegrot\b	V2	
+\bwegrotte\b	V3	
+\bwegrotten\b	V1	
+\bwegrottend\b	ADJ3	
+\bwegrottende\b	ADJ21	UNSPECIFIED
+\bwegvallen\b	V1	
+\bwegvallend\b	ADJ31	UNSPECIFIED
+\bwegvallende\b	ADJ21	UNSPECIFIED
+\bwegvalt\b	V2	
+\bwegviel\b	V3	
+\bwegvielen\b	V3	
+\bweinig\b	DET	N.A.
+\bweinig\b	Q	N.A.
+\bwerd\b	V3	
+\bwerden\b	V3	
+\bwerken\b	V1	
+\bwerken\b	V11	
+\bwerkend\b	ADJ31	UNSPECIFIED
+\bwerking\b	N2	
+\bwerkt\b	V2	
+\bwerkt\b	V21	
+\bwerkte\b	V3	
+\bwerkte\b	V31	
+\bwerkten\b	V3	
+\bwerkten\b	V31	
+\bwinden laat\b	N60	MAAG & LEVER & DARMEN
+\bwinden laten\b	N60	MAAG & LEVER & DARMEN
+\bwinderigheid\b	N60	MAAG & LEVER & DARMEN
+\bwonderbaarlijk\b	ADJ13	UNSPECIFIED
+\bwonderbaarlijke\b	ADJ10	N.A.
+\bwonderen\b	N9	
+\bwow\b	ADJ10	N.A.
+\bzagen\b	V31	
+\bzakken\b	V1	
+\bzakt\b	V2	
+\bzakte\b	V3	
+\bzakten\b	V2	
+\bzeer\b	ADV1	N.A.
+\bzeker\b	ADV2	N.A.
+\bzeldzaam\b	ADJ13	UNSPECIFIED
+\bzeldzame\b	ADJ10	N.A.
+\bzelfs\b	ADV2	N.A.
+\bzet\b	V21	
+\bzette\b	V31	
+\bzetten\b	V11	
+\bzichtbaar\b	ADJ13	UNSPECIFIED
+\bzichtbaarder\b	ADJ13	UNSPECIFIED
+\bzichtbaardere\b	ADJ10	N.A.
+\bzichtbare\b	ADJ10	N.A.
+\bzie\b	V21	
+\bziek\b	ADJ4	
+\bziekte\b	N9	
+\bziet\b	V21	
+\bzijn\b	DET	N.A.
+\bzo\b	ADV1	N.A.
+\bzorgde voor\b	P1	N.A.
+\bzorgde\b	V2	
+\bzorgden voor\b	P1	N.A.
+\bzorgden\b	V3	
+\bzorgen\b	V1	
+\bzorgt voor\b	P1	N.A.
+\bzorgt\b	V2	
+\bzou\b	AU	N.A.
+\bzoveel\b	ADV1	N.A.
+\bzuiverde\b	V3	
+\bzuiverend\b	ADJ31	UNSPECIFIED
+\bzuiverende\b	ADJ21	UNSPECIFIED
+\bzuivert\b	V2	
+\bzuur\b	N60	MAAG & LEVER & DARMEN
+\bzuurbranden\b	N60	MAAG & LEVER & DARMEN
+\bzuurstoftoevoer\b	N8	
+\bzwaar\b	ADJ13	UNSPECIFIED
+\bzwaar\b	ADV1	N.A.
+\bzwaarder\b	ADJ51	LICHAAMSGEWICHT
+\bzwaarder\b	ADV2	N.A.
+\bzwaardere\b	ADJ10	N.A.
+\bzwaarmoedig\b	ADJ4	PSYCHE
+\bzwaarmoedige\b	ADJ5	PSYCHE
+\bzwaarmoedigheid\b	N60	PSYCHE
+\bzwak\b	ADJ13	UNSPECIFIED
+\bzwakker\b	ADJ13	UNSPECIFIED
+\bzwakkere\b	ADJ10	N.A.
+\bzware\b	ADJ10	N.A.
+\bzweerde\b	V3	
+\bzweerden\b	V3	
+\bzweert\b	V2	
+\bzweet\b	V2	STRESS
+\bzweethanden\b	N60	LICHAAMSTEMPERATUUR
+\bzweette\b	V3	STRESS
+\bzwelde\b	V31	
+\bzwelden\b	V31
+\bzwellen\b	V1	
+\bzwellen\b	V11	
+\bzwelling\b	N61	
+\bzwelling\b	N9	
+\bzwellingen\b	N61	
+\bzwelt\b	V21	
+\bzweren\b	V1	
+\bzwerend\b	ADJ3	
+\bzwerende\b	ADJ2	
+\bzweten\b	V1	STRESS	
+\bzwetend\b	ADJ3	VOCHTHUISHOUDING
+\bzwetende\b	ADJ2	STRESS		
+aanval\b	N3	
+aanvallen\b	N3	
+aanzet\b	N9	
+aanzetting\b	N9	
+gevoel\b	N5	
+gevoelens\b	N5	PSYCHE

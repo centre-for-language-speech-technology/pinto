@@ -1,0 +1,166 @@
+  Root directory       : C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto
+  Collection directory : C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections
+  tags directory       : C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\tags
+  Rules directory      : C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\rules
+  Filters directory    : C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters
+  Reports directory    : C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\reports
+collection directory = C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections
+    parse collection: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections\LorumIpsum.xml
+XML file name: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections\LorumIpsum.xml
+Parse collection LorumIpsum (C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections\LorumIpsum.xml)
+*** parsed collection fora: 1 ***
+name of collection "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections\LorumIpsum.xml"set to =>LorumIpsum<=
+set data for CollectionListPanel: array[1]
+set data for FilterListPanel: array[1]
+name of filter "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\creatine.awc" set to =>creatine<=
+name of filter "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\effecten.efx" set to =>effecten<=
+name of filter "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\merken.awc" set to =>merken<=
+name of filter "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\producten.awc" set to =>producten<=
+name of filter "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\rpm.awc" set to =>rpm<=
+name of filter "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\supplement.awc" set to =>supplement<=
+name of filter "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\symptoom.awc" set to =>symptoom<=
+name of filter "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\verbodenstoffen.awc" set to =>verbodenstoffen<=
+startProcessing()
+process Rules: effectensyntax
+process Filter: creatine
+process Filter: effecten
+process Collection: LorumIpsum
+HyperBool.setRules() called
+HyperBool.setFilters() called
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\creatine.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\effecten.efx
+HyperBool.setCollections() called
+  number of collections set: 1
+  number of paragraphs set: 9
+LOG 2019-03-19 16:10:11 html file name = "sample_effect_type_report_creatine.html"
+LOG 2019-03-19 16:10:11 csf file name = "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\reports/sample_effect_type_report_creatine.tsv"
+startProcessing()
+process Rules: effectensyntax
+process Filter: creatine
+process Filter: effecten
+process Filter: merken
+process Filter: producten
+process Filter: rpm
+process Filter: supplement
+process Filter: symptoom
+process Filter: verbodenstoffen
+process Collection: LorumIpsum
+HyperBool.setRules() called
+HyperBool.setFilters() called
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\creatine.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\effecten.efx
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\merken.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\producten.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\rpm.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\supplement.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\symptoom.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\verbodenstoffen.awc
+HyperBool.setCollections() called
+  number of collections set: 1
+  number of paragraphs set: 9
+startProcessing()
+process Rules: effectensyntax
+process Filter: creatine
+process Filter: effecten
+process Filter: merken
+process Filter: producten
+process Filter: rpm
+process Filter: supplement
+process Filter: verbodenstoffen
+process Collection: LorumIpsum
+HyperBool.setRules() called
+HyperBool.setFilters() called
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\creatine.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\effecten.efx
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\merken.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\producten.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\rpm.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\supplement.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\verbodenstoffen.awc
+HyperBool.setCollections() called
+  number of collections set: 1
+  number of paragraphs set: 9
+startProcessing()
+process Rules: effectensyntax
+process Filter: creatine
+process Filter: effecten
+process Filter: merken
+process Filter: producten
+process Filter: rpm
+process Filter: symptoom
+process Filter: verbodenstoffen
+process Collection: LorumIpsum
+HyperBool.setRules() called
+HyperBool.setFilters() called
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\creatine.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\effecten.efx
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\merken.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\producten.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\rpm.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\symptoom.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\verbodenstoffen.awc
+HyperBool.setCollections() called
+  number of collections set: 1
+  number of paragraphs set: 9
+removing filter #5 (supplement) from filter list
+name of filter "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\supplement.awc" set to =>supplement<=
+startProcessing()
+process Rules: effectensyntax
+process Filter: creatine
+process Filter: effecten
+process Filter: merken
+process Filter: producten
+process Filter: rpm
+process Filter: symptoom
+process Filter: verbodenstoffen
+process Filter: supplement
+process Collection: LorumIpsum
+HyperBool.setRules() called
+HyperBool.setFilters() called
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\creatine.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\effecten.efx
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\merken.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\producten.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\rpm.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\symptoom.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\verbodenstoffen.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\supplement.awc
+HyperBool.setCollections() called
+  number of collections set: 1
+  number of paragraphs set: 9
+collection directory = C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections
+no files selected
+  ... removing collection #0 (LorumIpsum) from collection administration list
+  ... rebuilding collection administration map
+removing Collection #0 (LorumIpsum) from collection list
+collection directory = C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections
+    parse collection: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections\LorumIpsum.xml
+XML file name: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections\LorumIpsum.xml
+Parse collection LorumIpsum (C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections\LorumIpsum.xml)
+*** parsed collection fora: 1 ***
+name of collection "C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\collections\LorumIpsum.xml"set to =>LorumIpsum<=
+set data for CollectionListPanel: array[1]
+startProcessing()
+process Rules: effectensyntax
+process Filter: creatine
+process Filter: effecten
+process Filter: merken
+process Filter: producten
+process Filter: rpm
+process Filter: symptoom
+process Filter: verbodenstoffen
+process Filter: supplement
+process Collection: LorumIpsum
+HyperBool.setRules() called
+HyperBool.setFilters() called
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\creatine.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\effecten.efx
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\merken.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\producten.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\rpm.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\symptoom.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\verbodenstoffen.awc
+setFilters FilterData: C:\dev\ling\Pinto_RIVM\Pinto_1-5-1\Pinto\data\filters\supplement.awc
+HyperBool.setCollections() called
+  number of collections set: 1
+  number of paragraphs set: 9

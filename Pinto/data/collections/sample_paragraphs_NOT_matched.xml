@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<!-- collection with all non-matching paragraphs -->
+<!-- Generation date/time: 2019-03-19 11:31:58 -->
+<!--   using collection file: C:\Users\Peter\workspace\Pinto\data\collections\LorumIpsum.xml -->
+<!--   using tuple rules file: C:\Users\Peter\workspace\Pinto\data\rules\effectensyntax.rls -->
+<!--   using filter file: C:\Users\Peter\workspace\Pinto\data\filters\effecten.efx -->
+<!--   using filter file: C:\Users\Peter\workspace\Pinto\data\filters\creatine.awc -->
+<!--   using filter file: C:\Users\Peter\workspace\Pinto\data\filters\rpm.awc -->
+<!--   using filter file: C:\Users\Peter\workspace\Pinto\data\filters\merken.awc -->
+<!--   using filter file: C:\Users\Peter\workspace\Pinto\data\filters\producten.awc -->
+<!--   using filter file: C:\Users\Peter\workspace\Pinto\data\filters\verbodenstoffen.awc -->
+<fora>
+<!-- start data from collection C:\Users\Peter\workspace\Pinto\data\collections\LorumIpsum.xml -->
+<forum type='forum' name='NAME'>
+<thread id="thread 01">
+<category>-</category>
+<title>Lorum IpsumTITLE</title>
+<posts>
+<post id="posrt 01">
+<author>esiderius </author>
+<timestamp>2019-03-06 10:30:00</timestamp>
+<postindex>01</postindex>
+<parentid>-</parentid>
+<body>
+<paragraph>
+(Lorem Ipsum sec, no triggers)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</paragraph>
+<paragraph>
+(Lorem Ipsum with added triggers for effectensyntax.rls + effecten.efx + creatine.awc)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+creatine kan waterretentie veroorzaken.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+En verder ook nog krampen et betere opname. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</paragraph>
+<paragraph>
+(Lorem Ipsum with added triggers for effectensyntax.rls + effecten.efx + rpm.awc)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+rpm kan waterretentie veroorzaken.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+En verder ook nog krampen et betere opname. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</paragraph>
+<paragraph>
+(Lorem Ipsum with added triggers for effectensyntax.rls + effecten.efx + creatine.awc + rpm.awc + verbodenstoffen.awc)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+creatinefosfaat en rpm en vasculaire endotheel groeifactor.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+En verder ook nog krampen et betere opname. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</paragraph>
+<paragraph>
+(Lorem Ipsum with added triggers for effectensyntax.rls + effecten.efx + creatine.awc + rpm.awc + merken.awc)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+creatinefosfaat en rpm en muscletech essential series.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+En verder ook nog krampen et betere opname. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</paragraph>
+<paragraph>
+(Lorem Ipsum with added triggers for effectensyntax.rls + effecten.efx + creatine.awc + rpm.awc + producten.awc)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+creatinefosfaat en rpm en creapure creatine monohydraat.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+En verder ook nog krampen et betere opname. 
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</paragraph>
+<paragraph>
+(Lorem Ipsum sec, no triggers)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</paragraph>
+</body>
+<body>
+<paragraph>
+(Lorem Ipsum sec, no triggers)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</paragraph>
+</body>
+<upvotes>-</upvotes>
+<downvotes>-</downvotes>
+</post>
+</posts>
+</thread>
+</forum>
+</fora>
